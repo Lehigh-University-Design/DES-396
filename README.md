@@ -24,7 +24,7 @@ In terminal:
 
 Thanks largely to the following for providing material inspiration for the initial structure of this course:
 
-Jeffrey Heer, University of Washington
-Arvind Satyanarayan, MIT
+Jeffrey Heer, University of Washington  
+Arvind Satyanarayan, MIT  
 Sarah Williams, MIT
 
