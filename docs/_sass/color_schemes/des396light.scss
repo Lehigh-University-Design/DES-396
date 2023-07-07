@@ -1,0 +1,73 @@
+// Typography
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono&family=Roboto:ital,wght@0,300;0,400;0,500;0,700;1,300;1,400;1,500;1,700&display=swap');
+
+$body-font-family: 'Roboto', system-ui, -apple-system, blinkmacsystemfont, "Segoe UI", "Helvetica Neue", arial, sans-serif;
+
+$mono-font-family: 'Roboto Mono', "SFMono-Regular", menlo, consolas, monospace;
+
+
+// Colors
+
+$white: #FFFFFF;
+$grey-dk-000: #858585;
+$grey-dk-100: #525252;
+$grey-dk-200: #3D3D3D;
+$grey-dk-250: #292929;
+$grey-dk-300: #131313;
+
+$grey-lt-000: #F5F5F5;
+$grey-lt-100: #EBEBEB;
+$grey-lt-200: #D6D6D6;
+$grey-lt-300: #CCCCCC;
+
+$purple-000: #63175C;
+$purple-100: #53134C;
+$purple-200: #42103D;
+$purple-300: #330C2F;
+
+$blue-000: #1588E0;
+$blue-100: #137DCD;
+$blue-200: #1171BB;
+$blue-300: #1066A8;
+
+$green-000: #64A692;
+$green-100: #599B88;
+$green-200: #528E7C;
+$green-300: #4A8271;
+
+$yellow-000: #FBD437;
+$yellow-100: #FBCF23;
+$yellow-200: #FACB0F;
+$yellow-300: #E3B505;
+
+$red-000: #F31634;
+$red-100: #E90C2A;
+$red-200: #D50B26;
+$red-300: #BB0A21;
+
+$body-background-color: $white;
+$body-heading-color: $grey-dk-300;
+$body-text-color: $grey-dk-100;
+$link-color: $purple-000;
+$nav-child-link-color: $grey-dk-100;
+$sidebar-color: $grey-lt-000;
+$base-button-color: #f7f7f7;
+$btn-primary-color: $purple-100;
+$code-background-color: $grey-lt-000;
+$feedback-color: darken($sidebar-color, 3%);
+$table-background-color: $white;
+$search-background-color: $white;
+$search-result-preview-color: $grey-dk-000;
+
+@import "./vendor/OneLightJekyll/syntax";
+
+.material-symbols-outlined {
+  color: $link-color;
+  cursor: pointer;
+  font-variation-settings:
+  'FILL' 0,
+  'wght' 400,
+  'GRAD' 0,
+  'opsz' 48
+}

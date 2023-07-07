@@ -1,32 +1,33 @@
 ---
 title: Home
 layout: home
+nav_order: 1
 ---
 
-This is a *bare-minimum* template to create a Jekyll site that uses the [Just the Docs] theme. You can easily set the created site to be published on [GitHub Pages] – the [README] file explains how to do that, along with other details.
+# Interactive Data Visualization
 
-If [Jekyll] is installed on your computer, you can also build and preview the created site *locally*. This lets you test changes before committing them, and avoids waiting for GitHub Pages.[^1] And you will be able to deploy your local build to a different platform than GitHub Pages.
+Graphical representation of information is a vital area of design pertaining to the distillation of data into insightful visual form. This course investigates methods and technologies useful to the organization, perceptual interface and visual narrative of complex information. Focusing on data as creative medium, students will progress through a series of projects that engage and interpret contemporary contexts with charts, diagrams, graphs, maps and text. Project development will consist of sketches, wireframes and interactive design with javascript.
 
-More specifically, the created site:
+## Course Outcomes
 
-- uses a gem-based approach, i.e. uses a `Gemfile` and loads the `just-the-docs` gem
-- uses the [GitHub Pages / Actions workflow] to build and publish the site on GitHub Pages
+Upon completion of this course, students will be able to:
 
-Other than that, you're free to customize sites that you create with this template, however you like. You can easily change the versions of `just-the-docs` and Jekyll it uses, as well as adding further plugins.
+- Understand, read and discuss visualization history, technique and theory.
+- Discover, explore, interpreit and clean datasets.
+- Understand and troubleshoot structured data.
+- Research, conceptualize, design and critique visualizations.  
+- Know and understand best practices for technically and conceptually approaching contemporary visualization challenges.
+- Know the landscape of current frameworks, tools and resources, and know when to choose one tool over another.  
+- Develop a typographically sound and graphically rich data visualization project.
 
-[Browse our documentation][Just the Docs] to learn more about how to use this theme.
+## Acknowledging Lenapehoking
 
-To get started with creating a site, just click "[use this template]"!
+Lehigh University resides on Lenapehoking (leh-NA-pe-ho-king), the traditional home of the Lenni Lenape. We acknowledge this territory once also served as a hunting ground, trade exchange point, and migration route for the Munsee (MUHN-see), Susquehannock (suh-skwuh-HA-naak), Haudenosaunee (ho-den-no-SHOW-nee), and many other Indigenous peoples. We recognize, support, and advocate for Indigenous peoples who live here now, and for those who were (and continue to be) forcibly removed. We acknowledge, honor, and respect the past, present, and future of the diverse Indigenous peoples connected to this land, whose presence continues in the region due to their resilience in the face of colonization.
 
-If you want to maintain your docs in the `docs` directory of an existing project repo, see [Hosting your docs from an existing project repo](https://github.com/just-the-docs/just-the-docs-template/blob/main/README.md#hosting-your-docs-from-an-existing-project-repo) in the template README.
+## Gratitude
 
-----
+Thanks largely to the following for providing material inspiration for the initial structure of this course:
 
-[^1]: [It can take up to 10 minutes for changes to your site to publish after you push the changes to GitHub](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/creating-a-github-pages-site-with-jekyll#creating-your-site).
-
-[Just the Docs]: https://just-the-docs.github.io/just-the-docs/
-[GitHub Pages]: https://docs.github.com/en/pages
-[README]: https://github.com/just-the-docs/just-the-docs-template/blob/main/README.md
-[Jekyll]: https://jekyllrb.com
-[GitHub Pages / Actions workflow]: https://github.blog/changelog/2022-07-27-github-pages-custom-github-actions-workflows-beta/
-[use this template]: https://github.com/just-the-docs/just-the-docs-template/generate
+Jeffrey Heer, University of Washington  
+Arvind Satyanarayan, MIT  
+Sarah Williams, MIT

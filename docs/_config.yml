@@ -31,11 +31,15 @@ github_username:  jekyll
 remote_theme: just-the-docs/just-the-docs
 
 aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+  Lehigh AAD: https://aad.lehigh.edu/
+
+aux_links_new_tab: true
 
 plugins:
   - jekyll-feed
   - jekyll-default-layout
+
+color_scheme: des396light
 
 # Exclude from processing.
 # The following items will not be processed, by default.
