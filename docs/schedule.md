@@ -49,21 +49,21 @@ C2 Mac Lab
 
 ### Monday, September 4
 
+|**Lecture**|Finding and Questioning Data{::nomarkdown}<ul><li>Private</li><li>Public</li><li>Open</li><li>DIY</li></ul>{:/}|
+|**Lab**|Exploring Data with Vega Lite<br>{::nomarkdown}<ul><li>Introduction to Observable</li><li>Exploring Data with Vega Lite</li></ul>{:/}|
+|**Assignment 1**|Choose a dataset to import into an Observable notebook with Vega Lite. Create three graphs that ask three separate questions about the data.|
+
+### Wednesday, September 6
+
 <blockquote>
 	“As for my maps, I have heard people say that illustrative maps have been made for a long time. My maps do not just show, they also count, they calculate for the eye; that is the crucial point, the amendment I have introduced through the width of the zones in my figurative maps and through the rectangles in my graphic tableaus.”
 	<span>—Charles-Joseph Minard, 1861</span>
 </blockquote>
 {: .fs-3 }
 
-|**Lecture**|Data Narrative Pullout: A Masterwork in Visual Communication{::nomarkdown}<ul><li>Charles Joseph Minard</li></ul>{:/}|
-|**Lab**|Exploring Data with Vega Lite<br>{::nomarkdown}<ul><li>Introduction to Observable</li><li>Exploring Data with Vega Lite</li></ul>{:/}|
-|**Assignment 1**|Choose a dataset to import into an Observable notebook with Vega Lite. Create three graphs that ask three separate questions about the data.|
-|**Reading**|Rendgen, Sandra. "The Story Behind the Masterpiece" in *The Minard System: The Complete Statistical Graphics of Charles-Joseph Minard* (New York: Princeton Architectural Press, 2018), 7-9|
-
-### Wednesday, September 6
-
-|**Lecture**|Data Narratives{::nomarkdown}<ul><li>Finding Balance</li><li>Engineer + Artist == Designer</li></ul>{:/}|
+|**Lecture**|Data Narratives{::nomarkdown}<ul><li>Finding Balance</li><li>Engineer + Artist == Designer</li></ul>{:/}Data Narrative Pullout: A Masterwork in Visual Communication {::nomarkdown}<ul><li>Charles Joseph Minard</li></ul>{:/}|
 |**Lab**|{::nomarkdown}<ul><li>Short introduction to JavaScript for data visualization.</li><li>Work on assignment 1</li></ul>{:/}|
+|**Reading**|Rendgen, Sandra. "The Story Behind the Masterpiece" in *The Minard System: The Complete Statistical Graphics of Charles-Joseph Minard* (New York: Princeton Architectural Press, 2018), 7-9|
 
 ### Monday, September 11
 
@@ -90,7 +90,7 @@ C2 Mac Lab
 
 ### Wednesday, September 20
 
-|**Lecture**|Just Because it's *data* doesn't mean it's not messy!{::nomarkdown}<ul><li>Cleaning Data</li><li>Normalizing Data</li></ul>{:/}|
+|**Lecture**|Just Because it's *data* doesn't mean it's not messy!{::nomarkdown}<ul><li>Cleaning Data</li><li>Making, Meaning, Comparing</li><li>Normalizing Data</li></ul>{:/}|
 |**Lab**|{::nomarkdown}<ul><li>Introduction to data prep with Tableau.</li><li>Work on assignment 2</li></ul>{:/}|
 
 ### Wednesday, September 25
@@ -148,7 +148,7 @@ C2 Mac Lab
 ### Monday, October 23
 
 |**Lecture**|Collaboration|
-|**Final Project**|{::nomarkdown}<ul><li>Introduction</li><li>Parameters</li><li>Discussion</li></ul>{:/}|
+|**Final Project Introduction**|{::nomarkdown}<ul><li>Introduction</li><li>Parameters</li><li>Discussion</li></ul>{:/}|
 
 ### Wednesday, October 25
 
