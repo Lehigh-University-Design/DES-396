@@ -119,7 +119,6 @@ C2 Mac Lab
 
 ### Wednesday, October 4
 
-|**Guest Lecture**|Zach Levitt, NYT? TBD|
 |**Assignment 2**|{::nomarkdown}<p class="label label-purple">due</p>{:/} Assignment 2 is due today.|
 |**Presentations**|Assignment 2 presentations in class.|
 
@@ -142,8 +141,9 @@ C2 Mac Lab
 
 ### Wednesday, October 18
 
+|**Guest Lecture**|[Zach Levitt](https://zachlevitt.com/), Data Designer at the New York Times|
 |**Assignment 3**|{::nomarkdown}<p class="label label-purple">due</p>{:/} Assignment 3 is due today.|
-|**Presentations**|Assignment 3 presentations in class.|
+|**Presentations**|Assignment 3 presentations in class. Guest critic: Zach Levitt|
 
 ### Monday, October 23
 
