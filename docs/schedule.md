@@ -11,7 +11,9 @@ nav_order: 2
 	width: 25%;
 	min-width: 25%;
 	max-width: 25%;
-	word-break: break-all;
+	}
+	td{
+		vertical-align: top;
 	}
 	blockquote {
 		margin-top: 1.5em !important;
@@ -40,11 +42,11 @@ C2 Mac Lab
 
 |**Introduction**|{::nomarkdown}<ul><li>Syllabus</li><li>Expectations</li><li>Onboarding</li></ul>{:/}|
 |**Lecture**|I See: From Information to Insight<br>{::nomarkdown}<ul><li>Defining Data</li><li>Visual Thinking</li><li>DIKW Hierarchies?</li><li>Visualization as Technology</li></ul>{:/}|
-|**Reading**|Norman, D. A. (1993). Chapter 3: The Power of Representation. *Things That Make Us Smart: Defending Human Attributes in the Age of the Machine*.<br><br>Thorp, Jer. "I Data You, You Data Me (We All Data Together)" *Living in Data*, (New York: MCD Farrar Straus and Giroux, 2021), 37-52.|
+|**Reading**|[Norman, D. A. (1993). Chapter 3: The Power of Representation. *Things That Make Us Smart: Defending Human Attributes in the Age of the Machine*](https://nb2.csail.mit.edu/nb_viewer.html?id=5748b5945259e178cee1514de9abed5d).<br><br>Thorp, Jer. "I Data You, You Data Me (We All Data Together)" *Living in Data*, (New York: MCD Farrar Straus and Giroux, 2021), 37-52.|
 
 ### Wednesday, August 30
 
-|**Lecture**|Form & Function, the Shape of Data<br>{::nomarkdown}<ul><li>Types of Visualizations</li><li>Functions Constrain Forms</li><li>Bertin's Efficiency Principle</ul>{:/}|
+|**Lecture**|Form & Function, the Shape of Data<br>{::nomarkdown}<ul><li>Types of Visualizations</li><li>Functions Constrain Forms</li><li>Bertin's Visual Variables</ul>{:/}|
 |**Reading**|[Zachry, M., and C. Thralls. Cross-disciplinary exchanges: An interview with Edward R. Tufte. *Technical Communication Quarterly* 13.4 (Fall 2004): 447–462.](https://www.edwardtufte.com/tufte/s15427625tcq1304_5.pdf)|
 
 ### Monday, September 4
@@ -74,18 +76,20 @@ C2 Mac Lab
 {: .fs-3 }
 
 |**Lecture**|Data Narrative Pullout: Isotype{::nomarkdown}<ul><li>Otto Neurath</li><li>Marie Neurath</li><li>Gerd Arntz</li></ul>{:/}|
-|**Assignment 1**|{::nomarkdown}<p class="label label-purple">due</p>{:/} Assignment 1 is due today.|
-|**Reading**|Neurath, Marie, and  Robin Kinross. *The Transformer: Principles of Making Isotype Charts* (London: Hyphen Press, 2009), TKTKTKTKTKTK.<br><br>Neurath, Otto, "The Renaissance of Hieroglyphics" in *From Hieroglyphics to Isotype: a Visual Autobiography* (London: Hyphen Press, 2010), 99-128.|
+|**Assignment 1**|{::nomarkdown}<p class="label label-green">assignment 1 due</p>{:/} Assignment 1 is due today.|
+|**Reading**|[Lupton, Ellen. "Reading Isotype," *Design Issues* Vol. 3, No. 2 (Autumn, 1986): 47-58.](https://www.jstor.org/stable/1511484)<br><br>Neurath, Marie, and  Robin Kinross. *The Transformer: Principles of Making Isotype Charts* (London: Hyphen Press, 2009), TKTKTKTKTKTK.<br><br>Neurath, Otto, "The Renaissance of Hieroglyphics" in *From Hieroglyphics to Isotype: a Visual Autobiography* (London: Hyphen Press, 2010), 99-128.|
 
 ### Wednesday, September 13
 
 |**Library Visit**|Special Collections|
-|**Reading**|Dick, Murray. "Confronting the 'Chaos of Being': The Politics of Visual Knowledge" in *The Infographic: A History of Data Graphics in News and Communications* (Cambridge, MA: MIT Press, 2020), 31-61.<br><br>Hall, Peter A., and Patricio Dávila. "Disruptive Histories," in Critical Visualization: Rethinking the Representation of Data (New York: Bloomsbury), 44-75|
+|**Reading**|Dick, Murray. "Confronting the 'Chaos of Being': The Politics of Visual Knowledge" in *The Infographic: A History of Data Graphics in News and Communications* (Cambridge, MA: MIT Press, 2020), 31-61.<br><br>Hall, Peter A., and Patricio Dávila. "Disruptive Histories," in Critical Visualization: Rethinking the Representation of Data (New York: Bloomsbury), 44-75<br><br>[Wainer, Howard. "Why Playfair?," and "Who Was Playfair?", in *Graphic discovery : a trout in the milk and other visual adventures* (Princeton: Princeton University Press, 2007), 10-27](https://www.jstor.org/stable/j.ctt4cgc63)
+
+|
 
 ### Monday, September 18
 
 |**Lecture**|Visualization Design Process{::nomarkdown}<ul><li>Defining the problem</li><li>Imagining outcomes</li><li>Technology</li><li>Form & Aesthetics</li><li>Balance</li></ul>{:/}|
-|**Assignment 2**|Develop a data graphic to accompany a news article of your choice.|
+|**Assignment 2**|Develop data graphics to accompany a news article of your choice.|
 
 
 ### Wednesday, September 20
@@ -119,7 +123,7 @@ C2 Mac Lab
 
 ### Wednesday, October 4
 
-|**Assignment 2**|{::nomarkdown}<p class="label label-purple">due</p>{:/} Assignment 2 is due today.|
+|**Assignment 2**|{::nomarkdown}<p class="label label-green">assignment 2 due</p>{:/} Assignment 2 is due today.|
 |**Presentations**|Assignment 2 presentations in class.|
 
 ### Monday, October 9 (Indigenous Peoples Day)
@@ -142,13 +146,13 @@ C2 Mac Lab
 ### Wednesday, October 18
 
 |**Guest Lecture**|[Zach Levitt](https://zachlevitt.com/), Data Designer at the New York Times|
-|**Assignment 3**|{::nomarkdown}<p class="label label-purple">due</p>{:/} Assignment 3 is due today.|
+|**Assignment 3**|{::nomarkdown}<p class="label label-green">assignment 3 due</p>{:/} Assignment 3 is due today.|
 |**Presentations**|Assignment 3 presentations in class. Guest critic: Zach Levitt|
 
 ### Monday, October 23
 
 |**Lecture**|Collaboration|
-|**Final Project Introduction**|{::nomarkdown}<ul><li>Introduction</li><li>Parameters</li><li>Discussion</li></ul>{:/}|
+|**Final Project Intro**|{::nomarkdown}<ul><li>Introduction</li><li>Parameters</li><li>Discussion</li></ul>{:/}|
 
 ### Wednesday, October 25
 
@@ -195,7 +199,7 @@ C2 Mac Lab
 ### Wednesday, November 29
 
 |**Discussion**|End of semester thoughts and discussion.|
-|**Final Project**|{::nomarkdown}<p class="label label-purple">due</p>{:/} Final project is due today.|
+|**Final Project**|{::nomarkdown}<p class="label label-green">final project due</p>{:/} Final project is due today.|
 
 ### Monday, December 4
 

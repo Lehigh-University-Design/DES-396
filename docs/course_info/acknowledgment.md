@@ -8,7 +8,7 @@ title: Acknowledgment
 
 ## Acknowledging Lenapehoking
 
-Lehigh University resides on Lenapehoking (leh-NA-pe-ho-king), the traditional home of the Lenni Lenape. We acknowledge this territory once also served as a hunting ground, trade exchange point, and migration route for the Munsee (MUHN-see), Susquehannock (suh-skwuh-HA-naak), Haudenosaunee (ho-den-no-SHOW-nee), and many other Indigenous peoples. We recognize, support, and advocate for Indigenous peoples who live here now, and for those who were (and continue to be) forcibly removed. We acknowledge, honor, and respect the past, present, and future of the diverse Indigenous peoples connected to this land, whose presence continues in the region due to their resilience in the face of colonization.
+Lehigh University resides on [Lenapehoking](https://en.wikipedia.org/wiki/Lenapehoking), widely translated as 'homelands of the Lenape', which in the 16th and 17th centuries, ranged along the Eastern seaboard from western Connecticut to Delaware, and encompassed the territory adjacent to the Delaware and lower Hudson river valleys, and the territory between them. We acknowledge that this territory also once served as a hunting ground, trade exchange point, and migration route for the Munsee, Susquehannock, Haudenosaunee, and other Indigenous peoples. We recognize, support, and advocate for Indigenous peoples who live here now, and for those who were forcibly removed. We acknowledge, honor, and respect the past, present, and future of the diverse Indigenous peoples connected to this land, whose presence continues in the region due to their resilience in the face of colonization.
 
 ## Gratitude
 
