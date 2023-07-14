@@ -43,7 +43,7 @@ C2 Mac Lab
 ### Monday, September 4
 
 |**Lecture**|Finding and Questioning Data{::nomarkdown}<ul><li>Private</li><li>Public</li><li>Open</li><li>DIY</li></ul>{:/}|
-|**Lab**|Exploring Data with Vega Lite<br>{::nomarkdown}<ul><li>Introduction to Observable</li><li>Data Formats (CSV, JSON)</li><li>Exploring Data with Vega Lite</li></ul>{:/}|
+|**Lab**|Exploring Data with Vega Lite<br>{::nomarkdown}<ul><li>Introduction to Observable</li><li>Exploring Data with Vega Lite</li></ul>{:/}|
 |**Assignment 1**|Choose a dataset to import into an Observable notebook with Vega Lite. Create three graphs that ask three separate questions about the data.|
 
 ### Wednesday, September 6
@@ -54,7 +54,7 @@ C2 Mac Lab
 </blockquote>
 
 |**Lecture**|Data Narratives{::nomarkdown}<ul><li>Finding Balance</li><li>Engineer + Artist == Designer</li></ul>{:/}Data Narrative Pullout: A Masterwork in Visual Communication {::nomarkdown}<ul><li>Charles Joseph Minard</li></ul>{:/}|
-|**Lab**|{::nomarkdown}<ul><li>Short introduction to JavaScript for data visualization.</li><li>Work on assignment 1</li></ul>{:/}|
+|**Lab**|{::nomarkdown}<ul><li>Short introduction to JavaScript for data visualization.</li><li>Data Formats (CSV, JSON)</li><li>Work on assignment 1</li></ul>{:/}|
 |**Reading**|[Hiippala, Tuomo. “A Multimodal Perspective on Data Visualization.” In Data Visualization in Society, edited by Martin Engebretsen and Helen Kennedy, 277–94. Amsterdam University Press, 2020](https://doi.org/10.2307/j.ctvzgb8c7.23).<br><br>Rendgen, Sandra. "The Story Behind the Masterpiece" in *The Minard System: The Complete Statistical Graphics of Charles-Joseph Minard* (New York: Princeton Architectural Press, 2018), 7-9|
 
 ### Monday, September 11
