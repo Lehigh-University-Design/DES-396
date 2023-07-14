@@ -54,7 +54,7 @@ C2 Mac Lab
 </blockquote>
 
 |**Lecture**|Data Narratives{::nomarkdown}<ul><li>Finding Balance</li><li>Engineer + Artist == Designer</li></ul>{:/}Data Narrative Pullout: A Masterwork in Visual Communication {::nomarkdown}<ul><li>Charles Joseph Minard</li></ul>{:/}|
-|**Lab**|{::nomarkdown}<ul><li>Short introduction to JavaScript for data visualization.</li><li>Data Formats (CSV, JSON)</li><li>Work on assignment 1</li></ul>{:/}|
+|**Lab**|{::nomarkdown}<ul><li>Short introduction to JavaScript for data visualization.</li><li>Data formats (CSV, JSON)</li><li>Work on assignment 1</li></ul>{:/}|
 |**Reading**|[Hiippala, Tuomo. “A Multimodal Perspective on Data Visualization.” In Data Visualization in Society, edited by Martin Engebretsen and Helen Kennedy, 277–94. Amsterdam University Press, 2020](https://doi.org/10.2307/j.ctvzgb8c7.23).<br><br>Rendgen, Sandra. "The Story Behind the Masterpiece" in *The Minard System: The Complete Statistical Graphics of Charles-Joseph Minard* (New York: Princeton Architectural Press, 2018), 7-9|
 
 ### Monday, September 11
