@@ -43,7 +43,7 @@ C2 Mac Lab
 ### Monday, September 4
 
 |**Lecture**|Finding and Questioning Data{::nomarkdown}<ul><li>Private</li><li>Public</li><li>Open</li><li>DIY</li></ul>{:/}|
-|**Lab**|Exploring Data with Vega Lite<br>{::nomarkdown}<ul><li>Introduction to Observable</li><li>Exploring Data with Vega Lite</li></ul>{:/}|
+|**Lab**|Exploring Data with Vega Lite<br>{::nomarkdown}<ul><li>Introduction to Observable</li><li>Data Formats (CSV, JSON)</li><li>Exploring Data with Vega Lite</li></ul>{:/}|
 |**Assignment 1**|Choose a dataset to import into an Observable notebook with Vega Lite. Create three graphs that ask three separate questions about the data.|
 
 ### Wednesday, September 6
