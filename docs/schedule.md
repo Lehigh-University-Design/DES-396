@@ -15,15 +15,6 @@ nav_order: 2
 	td{
 		vertical-align: top;
 	}
-	blockquote {
-		margin-top: 1.5em !important;
-		margin-bottom: 2em;
-		font-style: italic;
-	}
-	blockquote span {
-		font-style: normal;
-		display: inline-block;
-	}
 
 </style>
 
@@ -41,8 +32,8 @@ C2 Mac Lab
 ### Monday, August 28
 
 |**Introduction**|{::nomarkdown}<ul><li>Syllabus</li><li>Expectations</li><li>Onboarding</li></ul>{:/}|
-|**Lecture**|I See: From Information to Insight<br>{::nomarkdown}<ul><li>Defining Data</li><li>Visual Thinking</li><li>DIKW Hierarchies?</li><li>Visualization as Technology</li></ul>{:/}|
-|**Reading**|[Norman, D. A. (1993). Chapter 3: The Power of Representation. *Things That Make Us Smart: Defending Human Attributes in the Age of the Machine*](https://nb2.csail.mit.edu/nb_viewer.html?id=5748b5945259e178cee1514de9abed5d).<br><br>Thorp, Jer. "I Data You, You Data Me (We All Data Together)" *Living in Data*, (New York: MCD Farrar Straus and Giroux, 2021), 37-52.|
+|**Lecture**|I See: From Information to Insight<br>{::nomarkdown}<ul><li>Defining Data</li><li>Visual Thinking</li><li>Visualization as Technology</li></ul>{:/}|
+|**Reading**|[Norman, D. A. (1993). Chapter 3: The Power of Representation. *Things That Make Us Smart: Defending Human Attributes in the Age of the Machine*](https://nb2.csail.mit.edu/nb_viewer.html?id=5748b5945259e178cee1514de9abed5d).<br><br>[Rettberg, Jill Walker. “Ways of Knowing with Data Visualizations.” In Data Visualization in Society, edited by Martin Engebretsen and Helen Kennedy, 35–48. Amsterdam University Press, 2020](https://doi.org/10.2307/j.ctvzgb8c7.8).<br><br>Thorp, Jer. "I Data You, You Data Me (We All Data Together)" *Living in Data*, (New York: MCD Farrar Straus and Giroux, 2021), 37-52.|
 
 ### Wednesday, August 30
 
@@ -61,11 +52,10 @@ C2 Mac Lab
 	“As for my maps, I have heard people say that illustrative maps have been made for a long time. My maps do not just show, they also count, they calculate for the eye; that is the crucial point, the amendment I have introduced through the width of the zones in my figurative maps and through the rectangles in my graphic tableaus.”
 	<span>—Charles-Joseph Minard, 1861</span>
 </blockquote>
-{: .fs-3 }
 
 |**Lecture**|Data Narratives{::nomarkdown}<ul><li>Finding Balance</li><li>Engineer + Artist == Designer</li></ul>{:/}Data Narrative Pullout: A Masterwork in Visual Communication {::nomarkdown}<ul><li>Charles Joseph Minard</li></ul>{:/}|
 |**Lab**|{::nomarkdown}<ul><li>Short introduction to JavaScript for data visualization.</li><li>Work on assignment 1</li></ul>{:/}|
-|**Reading**|Rendgen, Sandra. "The Story Behind the Masterpiece" in *The Minard System: The Complete Statistical Graphics of Charles-Joseph Minard* (New York: Princeton Architectural Press, 2018), 7-9|
+|**Reading**|[Hiippala, Tuomo. “A Multimodal Perspective on Data Visualization.” In Data Visualization in Society, edited by Martin Engebretsen and Helen Kennedy, 277–94. Amsterdam University Press, 2020](https://doi.org/10.2307/j.ctvzgb8c7.23).<br><br>Rendgen, Sandra. "The Story Behind the Masterpiece" in *The Minard System: The Complete Statistical Graphics of Charles-Joseph Minard* (New York: Princeton Architectural Press, 2018), 7-9|
 
 ### Monday, September 11
 
@@ -73,7 +63,6 @@ C2 Mac Lab
 	“Perhaps this kind of intentionally communicative visualization is just beginning, as scientific education did long ago. Who can say? But there is perhaps a chance that visual communication will play its part in the creation of a brotherhood of man, for it can help to bridge many gaps and reduce some of the sources of antagonism.”
 	<span>—Otto Neurath</span>
 </blockquote>
-{: .fs-3 }
 
 |**Lecture**|Data Narrative Pullout: Isotype{::nomarkdown}<ul><li>Otto Neurath</li><li>Marie Neurath</li><li>Gerd Arntz</li></ul>{:/}|
 |**Assignment 1**|{::nomarkdown}<p class="label label-green">assignment 1 due</p>{:/} Assignment 1 is due today.|
@@ -88,8 +77,9 @@ C2 Mac Lab
 
 ### Monday, September 18
 
-|**Lecture**|Visualization Design Process{::nomarkdown}<ul><li>Defining the problem</li><li>Imagining outcomes</li><li>Technology</li><li>Form & Aesthetics</li><li>Balance</li></ul>{:/}|
+|**Lecture**|Visualization Design Process{::nomarkdown}<ul><li>Defining the problem</li><li>Imagining outcomes</li><li>Technology</li><li>Form & Aesthetics</li><li>Narrative Flow</li><li>Balance</li></ul>{:/}|
 |**Assignment 2**|Develop data graphics to accompany a news article of your choice.|
+|**Reading**|[Weber, Wibke. “Exploring Narrativity in Data Visualization in Journalism.” In Data Visualization in Society, edited by Martin Engebretsen and Helen Kennedy, 295–312. Amsterdam University Press, 2020](https://doi.org/10.2307/j.ctvzgb8c7.24).|
 
 
 ### Wednesday, September 20
@@ -108,7 +98,6 @@ C2 Mac Lab
 	“The problem of the twentieth century is the problem of the color-line.”
 	<span>—W.E.B. DuBois</span>
 </blockquote>
-{: .fs-3 }
 
 |**Lecture**|Data Narrative Pullout: Social Graphics at the Paris Exposition{::nomarkdown}<ul><li>W.E.B. DuBois</li></ul>{:/}|
 |**Lab**|Work on assignment 2|
@@ -131,7 +120,7 @@ C2 Mac Lab
 |**Lecture**|Mapping Data<br><br>Data Narrative Pullout: Coming Home to Indigenous Place Names in Canada{::nomarkdown}<ul><li>Margaret Pearce</li></ul>{:/}|
 |**Lab**|Mapping Data with MapBox|
 |**Assignment 3**|Map a Data Story|
-|**Reading**|Williams, Sarah. "Big Data for Cities is Not New" in *Data Action: Using Data for Public Good* (Cambridge, MA: MIT Press, 2022), 1-48.|
+|**Reading**|[Gutiérrez, Miren. “How Interactive Maps Mobilize People in Geoactivism.” In Data Visualization in Society, edited by Martin Engebretsen and Helen Kennedy, 441–56. Amsterdam University Press, 2020](https://doi.org/10.2307/j.ctvzgb8c7.32).<br><br>Williams, Sarah. "Big Data for Cities is Not New" in *Data Action: Using Data for Public Good* (Cambridge, MA: MIT Press, 2022), 1-48.|
 
 ### Wednesday, October 11
 
@@ -162,7 +151,7 @@ C2 Mac Lab
 
 |**Lecture**|Aesthetics and Representtion{::nomarkdown}<ul><li>Data Visualization as Art</li><li>Parameters of Representation</li><li>Discussion</li></ul>{:/}|
 |**Lab**|Work on final project|
-|**Reading**|Hall, Peter A., and Patricio Dávila. "Beyond Aesthetics and Representation," in *Critical Visualization: Rethinking the Representation of Data* (New York: Bloomsbury), 182-194|
+|**Reading**|[Friendly, Michael, and Howard Wainer. “Graphs as Poetry.” In A History of Data Visualization and Graphic Communication, 231–50. Harvard University Press, 2021](https://doi.org/10.2307/j.ctv31xf66n.14).<br><br>Hall, Peter A., and Patricio Dávila. "Beyond Aesthetics and Representation," in *Critical Visualization: Rethinking the Representation of Data* (New York: Bloomsbury), 182-194<br><br>[Manovich, Lev. “Data Visualization as New Abstraction and as Anti-Sublime.” In Small Tech: The Culture of Digital Tools, edited by BYRON HAWK, DAVID M. RIEDER, and OLLIE OVIEDO, NED-New edition., 22:3–9. University of Minnesota Press, 2008](http://www.jstor.org/stable/10.5749/j.cttttht8.5).|
 
 ### Monday, November 6
 
@@ -173,7 +162,7 @@ C2 Mac Lab
 
 |**Lecture**|Beyond Visualization{::nomarkdown}<ul><li>Speculative workflows</li><li>AI and Visualization</li><li>Discussion</li></ul>{:/}|
 |**Lab**|Work on final project|
-|**Reading**|[Anna Ridler. “A Contemporary Tulipmania,” *Antennae Journal*, Spring 2021](https://static1.squarespace.com/static/5500326fe4b0564d4c2494d1/t/63d11ad7f4e51f407212014e/1674648281891/ANTENNAE+ISSUE+53.pdf).|
+|**Reading**|[Ridler, Anna. “A Contemporary Tulipmania,” *Antennae Journal*, Spring 2021](https://static1.squarespace.com/static/5500326fe4b0564d4c2494d1/t/63d11ad7f4e51f407212014e/1674648281891/ANTENNAE+ISSUE+53.pdf).|
 
 ### Monday, November 13
 

@@ -36,8 +36,8 @@ For more on grading at Lehigh, please consult the [definitions of grades](https:
 |Technical|25%|
 |Conceptual / Idea / Sketches / Process|20%|
 |Content / Narrative|20%|
-|Aesthetics|20%|
-|Presentation / Communication / Participation|15%|
+|Visual Language / Aesthetics|20%|
+|Communicating Ideas / Participation|15%|
 
 ### Assignment Grading Rubric
 
@@ -45,8 +45,8 @@ For more on grading at Lehigh, please consult the [definitions of grades](https:
 |**Technical**|Project shows an eye-catching level of technical execution. Technical wow factor.|Above and beyond technical execution and attention to detail.|Technically proficient.|Project displays a lack of technical proficiency.|
 |**Conceptual**|Groundbreaking concept. Sketches and process well documented. A novel approach to material(data) and craft. |Well thought out and interesting approach. Some risk taking evident.|Some process. Sketches loose but make sense.|No process or sketch work. Lacking balance. Difficult to navigate or follow. Hasty.|
 |**Content and Narrative**|Engaging and well developed. Potentially ground-breaking. Narrative matches data well. Graphics/media elements are exceptional.|Clear, interesting, engaging. Meaningful. Approach to data matches story. Graphics/media are well produced.|Acceptable but not entirely clear. Approach to data may not align with story. Graphics are adequately produced.|Not clear. Data does not fit the story. Poorly produced graphics/media.|
-|**Aesthetics**|Seamless fit between content, art direction, and interactivity. Inspiring. Memorable. Innovative. Confident.|Well thought out. Aesthetically sound. Follows design best practices.|Coherent. Visual language conveys the intention but is not memorable.|Lack of basic design. Poor and/or distracting visual language.|
-|**Presentation, Communication and Participation**|Student is engaged in project, asking questions, seeking and finding. Makes a good case for the project. Good use of time. Helping others.|Student is engaged throughout project. Good focus. Student displays and communicates a desire to create something unique. Presents well.|Student is present, understands the goals of project and is making an honest effort.|Student fails to focus. Swimming is evident. Student does not understand the project or is not present. Not engaged with others.|
+|**Visual Language**|Seamless fit between content, art direction, and interactivity. Inspiring. Memorable. Innovative. Confident.|Well thought out. Aesthetically sound. Follows design best practices.|Coherent. Visual language conveys the intention but is not memorable.|Lack of basic design. Poor and/or distracting visual language.|
+|**Communicating Ideas and Participation**|Student is engaged in project, asking questions, seeking and finding. Makes a good case for the project. Good use of time. Helping others.|Student is engaged throughout project. Good focus. Student displays and communicates a desire to create something unique. Presents well.|Student is present, understands the goals of project and is making an honest effort.|Student fails to focus. Swimming is evident. Student does not understand the project or is not present. Not engaged with others.|
 
 ### Course Grading Breakdown
 

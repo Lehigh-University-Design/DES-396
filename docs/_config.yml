@@ -41,6 +41,10 @@ plugins:
 
 color_scheme: des396light
 
+callouts:
+  highlight:
+    color: yellow
+
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to

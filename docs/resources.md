@@ -15,6 +15,7 @@ nav_order: 3
 ## Books
 
 - [Dougherty, J. and Ilya Ilyankou. *Hands-On Data Visualization: Interactive Storytelling from Spreadsheets to Code* (Sebastopol, CA: O'Reilly Publishing, 2023)](https://handsondataviz.org/)
+- [Kirk, Andy. *Data Visualisation: A Handbook for Data Driven Design* (Thousand Oaks, CA: SAGE Publications, 2019)(https://visualisingdata.com/book/)
 - [Scott Murray. *Interactive Data Visualization for the Web*, 2nd Edition. (Sebastopol, CA: O'Reilly Publishing, 2017)]("https://alignedleft.com/work/d3-book-2e)
 - Cairo, Alberto. *Functional Art, The: An introduction to information graphics and visualization* (Indianapolis, IN: New Riders, 2012)
 
@@ -58,7 +59,6 @@ nav_order: 3
 - [World Bank Open Data](https://data.worldbank.org/), a global collection of economic development data.
 - [World Inequality Database](https://wid.world/), global data on income and wealth inequality.
 
-
 ## Data Newsletter
 
 - [Data is Plural](https://www.data-is-plural.com/)
@@ -74,7 +74,7 @@ nav_order: 3
 - [Leaflet](https://leafletjs.com/), an open-source JavaScript library for mobile-friendly interactive maps.
 - [MabBox](https://www.mapbox.com/), dynamic, performant, and customizable maps with JavaScript library and API.
 - [Observable](https://observablehq.com/), an interactive, browser based notebook editing environment with community functionality
-- [Observable: Learn Js Data](https://observablehq.com/@dakoop/learn-js-data), teaches the basics of manipulating data using JavaScript in the browser.
+- [A Taste of Observable](https://observablehq.com/@observablehq/a-taste-of-observable?collection=@observablehq/getting-started), introductory notebook.
 - [p5js](https://p5js.org/), a JavaScript library for creative coding, with a focus on making coding accessible.
 - [Tableau](https://www.tableau.com/academic/students), a visual analytics platform.
 - [Tableau Prep](https://www.tableau.com/products/prep), a modern (nice interface) approach to data preparation.
@@ -98,12 +98,14 @@ nav_order: 3
 - [Bootstrap](https://getbootstrap.com/)
 - [Tailwind](https://tailwindcss.com/)
 
-### Javascript
+### JavaScript
 
 - [The JavaScript Beginner's Handbook](https://www.freecodecamp.org/news/the-complete-javascript-handbook-f26b2c71719c/)
 - [Mozilla Developers Network (MDN) Javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-- [Modern Javascript Tutorial](https://javascript.info/)
-- [CodeAcademy Intro to Javascript](https://www.codecademy.com/learn/introduction-to-javascript)
+- [Modern JavaScript Tutorial](https://javascript.info/)
+- [Observable: Just Enough JavaScript](https://observablehq.com/@observablehq/learn-javascript-introduction?collection=@observablehq/tutorial), tutorial
+- [Observable: Learn Js Data](https://observablehq.com/@dakoop/learn-js-data), teaches the basics of manipulating data using JavaScript in the browser.
+- [CodeAcademy Intro to JavaScript](https://www.codecademy.com/learn/introduction-to-javascript)
 
 ### Development Frameworks
 - [React](https://reactjs.org/) JS web framework
@@ -157,3 +159,6 @@ nav_order: 3
 - [Data Viz Today](https://dataviztoday.com/)
 - [PolicyViz](https://policyviz.com/podcast/)
 - [Storytelling With Data](https://www.storytellingwithdata.com/podcast)
+
+### Tutorials
+- [Course: Data Visualization Fundamentals and Best Practices](https://observablehq.com/@observablehq/datavizcourse), Robert Kosara's data visualization tutorial series on Observable. [Videos](https://www.youtube.com/watch?v=WJ1c54Ab-o8), [Course Materials](https://observablehq.com/@observablehq/course-materials-and-pointers?collection=@observablehq/data-vis-course) 
