@@ -53,9 +53,9 @@ C2 Mac Lab
 	<span>—Charles-Joseph Minard, 1861</span>
 </blockquote>
 
-|**Lecture**|Data Narratives{::nomarkdown}<ul><li>Finding Balance</li><li>Engineer + Artist == Designer</li></ul>{:/}Data Narrative Pullout: A Masterwork in Visual Communication {::nomarkdown}<ul><li>Charles Joseph Minard</li></ul>{:/}|
+|**Lecture**|Data Narratives{::nomarkdown}<ul><li>Finding Balance</li><li>Engineer + Artist == Designer</li><li>Storytelling?</li></ul>{:/}Data Narrative Pullout: A Masterwork in Visual Communication {::nomarkdown}<ul><li>Charles Joseph Minard</li></ul>{:/}|
 |**Lab**|{::nomarkdown}<ul><li>Short introduction to JavaScript for data visualization.</li><li>Data formats (CSV, JSON)</li><li>Work on assignment 1</li></ul>{:/}|
-|**Reading**|[Hiippala, Tuomo. “A Multimodal Perspective on Data Visualization.” In Data Visualization in Society, edited by Martin Engebretsen and Helen Kennedy, 277–94. Amsterdam University Press, 2020](https://doi.org/10.2307/j.ctvzgb8c7.23).<br><br>Rendgen, Sandra. "The Story Behind the Masterpiece" in *The Minard System: The Complete Statistical Graphics of Charles-Joseph Minard* (New York: Princeton Architectural Press, 2018), 7-9|
+|**Reading**|[Hiippala, Tuomo. “A Multimodal Perspective on Data Visualization.” In Data Visualization in Society, edited by Martin Engebretsen and Helen Kennedy, 277–94. Amsterdam University Press, 2020](https://doi.org/10.2307/j.ctvzgb8c7.23).<br><br>Rendgen, Sandra. "The Story Behind the Masterpiece" in *The Minard System: The Complete Statistical Graphics of Charles-Joseph Minard* (New York: Princeton Architectural Press, 2018), 7-9<br><br>[Sehgal, Parul, "The Tyranny of the Tale," *The New Yorker,* July, 3, 2023](https://www.newyorker.com/magazine/2023/07/10/seduced-by-story-peter-brooks-bewitching-the-modern-mind-christian-salmon-the-story-paradox-jonathan-gottschall-book-review)|
 
 ### Monday, September 11
 
@@ -151,7 +151,7 @@ C2 Mac Lab
 
 |**Lecture**|Aesthetics and Representtion{::nomarkdown}<ul><li>Data Visualization as Art</li><li>Parameters of Representation</li><li>Discussion</li></ul>{:/}|
 |**Lab**|Work on final project|
-|**Reading**|[Friendly, Michael, and Howard Wainer. “Graphs as Poetry.” In A History of Data Visualization and Graphic Communication, 231–50. Harvard University Press, 2021](https://doi.org/10.2307/j.ctv31xf66n.14).<br><br>Hall, Peter A., and Patricio Dávila. "Beyond Aesthetics and Representation," in *Critical Visualization: Rethinking the Representation of Data* (New York: Bloomsbury), 182-194<br><br>[Manovich, Lev. “Data Visualization as New Abstraction and as Anti-Sublime.” In Small Tech: The Culture of Digital Tools, edited by BYRON HAWK, DAVID M. RIEDER, and OLLIE OVIEDO, NED-New edition., 22:3–9. University of Minnesota Press, 2008](http://www.jstor.org/stable/10.5749/j.cttttht8.5).|
+|**Reading**|[Friendly, Michael, and Howard Wainer. “Graphs as Poetry.” In A History of Data Visualization and Graphic Communication, 231–50. Harvard University Press, 2021](https://doi.org/10.2307/j.ctv31xf66n.14).<br><br>Hall, Peter A., and Patricio Dávila. "Beyond Aesthetics and Representation," in *Critical Visualization: Rethinking the Representation of Data* (New York: Bloomsbury), 182-194|
 
 ### Monday, November 6
 
