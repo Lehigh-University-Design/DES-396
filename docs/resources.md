@@ -103,9 +103,14 @@ nav_order: 3
 - [The JavaScript Beginner's Handbook](https://www.freecodecamp.org/news/the-complete-javascript-handbook-f26b2c71719c/)
 - [Mozilla Developers Network (MDN) Javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 - [Modern JavaScript Tutorial](https://javascript.info/)
+- [Observable](https://observablehq.com/guide/functional-basics), functional programming basics.
+- [Observable JavaScript](https://observablehq.com/@observablehq/observable-javascript), how JavaScript works in Observable
 - [Observable: Just Enough JavaScript](https://observablehq.com/@observablehq/learn-javascript-introduction?collection=@observablehq/tutorial), tutorial
 - [Observable: Learn Js Data](https://observablehq.com/@dakoop/learn-js-data), teaches the basics of manipulating data using JavaScript in the browser.
 - [CodeAcademy Intro to JavaScript](https://www.codecademy.com/learn/introduction-to-javascript)
+
+### JavaScript Libraries
+- [Lodash](https://lodash.com/), a modern JavaScript utility library delivering modularity, performance & extras.
 
 ### Development Frameworks
 - [React](https://reactjs.org/) JS web framework

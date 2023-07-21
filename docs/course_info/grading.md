@@ -51,7 +51,7 @@ For more on grading at Lehigh, please consult the [definitions of grades](https:
 ### Course Grading Breakdown
 
 |Class Citizenship|10%|
-|Assignment 1|15%|
-|Assignment 2|15%|
-|Assignment 3|20%|
+|Assignment 1: Exploring Data|15%|
+|Assignment 2: Data Graphics|15%|
+|Assignment 3: Map a Data Story|20%|
 |Final Project|40%|

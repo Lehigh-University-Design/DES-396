@@ -43,8 +43,8 @@ C2 Mac Lab
 ### Monday, September 4
 
 |**Lecture**|Finding and Questioning Data{::nomarkdown}<ul><li>Private</li><li>Public</li><li>Open</li><li>DIY</li></ul>{:/}|
-|**Lab**|Exploring Data with Vega Lite<br>{::nomarkdown}<ul><li>Introduction to Observable</li><li>Exploring Data with Vega Lite</li></ul>{:/}|
-|**Assignment 1**|Choose a dataset to import into an Observable notebook with Vega Lite. Create three graphs that ask three separate questions about the data.|
+|**Lab**|Exploring Data with Observable Plot and Vega Lite<br>{::nomarkdown}<ul><li>Introduction to Observable</li><li>Exploring Data with Vega Lite</li></ul>{:/}|
+|**Assignment 1**|Choose a dataset to import into an Observable notebook. Using Plot or Vega Lite, create three graphs that ask three separate questions about the data.|
 
 ### Wednesday, September 6
 
@@ -155,8 +155,10 @@ C2 Mac Lab
 
 ### Monday, November 6
 
+|**Lecture**|Data Narrative Pullout: Joy Division’s Unknown Pleasures|
 |**Final Project**|Groups pitch their projects|
 |**Lab**|Work on final project|
+|**Reading**|[Christiansen, Jen, "Pop Culture Pulsar: Origin Story of Joy Division’s Unknown Pleasures Album Cover," *Scientific American,* February, 18, 2015](https://blogs.scientificamerican.com/sa-visual/pop-culture-pulsar-origin-story-of-joy-division-s-unknown-pleasures-album-cover-video/)|
 
 ### Wednesday, November 8
 
