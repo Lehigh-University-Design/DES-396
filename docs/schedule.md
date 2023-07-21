@@ -155,6 +155,11 @@ C2 Mac Lab
 
 ### Monday, November 6
 
+<blockquote>
+	“In a room with a window in the corner I found truth.”
+	<span>—Joy Division, <em>Shadowplay</em></span>
+</blockquote>
+
 |**Lecture**|Data Narrative Pullout: Joy Division’s Unknown Pleasures|
 |**Final Project**|Groups pitch their projects|
 |**Lab**|Work on final project|
