@@ -31,9 +31,14 @@ C2 Mac Lab
 
 ### Monday, August 28
 
+<blockquote>
+	“Whenever I am infuriated, I revenge myself with a new diagram.”
+	<span>—Florence Nightengale</span>
+</blockquote>
+
 |**Introduction**|{::nomarkdown}<ul><li>Syllabus</li><li>Expectations</li><li>Onboarding</li></ul>{:/}|
-|**Lecture**|I See: From Information to Insight<br>{::nomarkdown}<ul><li>Defining Data</li><li>Visual Thinking</li><li>Visualization as Technology</li></ul>{:/}|
-|**Reading**|[Norman, D. A. (1993). Chapter 3: The Power of Representation. *Things That Make Us Smart: Defending Human Attributes in the Age of the Machine*](https://nb2.csail.mit.edu/nb_viewer.html?id=5748b5945259e178cee1514de9abed5d).<br><br>[Rettberg, Jill Walker. “Ways of Knowing with Data Visualizations.” In Data Visualization in Society, edited by Martin Engebretsen and Helen Kennedy, 35–48. Amsterdam University Press, 2020](https://doi.org/10.2307/j.ctvzgb8c7.8).<br><br>Thorp, Jer. "I Data You, You Data Me (We All Data Together)" *Living in Data*, (New York: MCD Farrar Straus and Giroux, 2021), 37-52.|
+|**Lecture**|Data Narrative Pullout: The Nightengale Rose Diagram<br><br>I See: From Information to Insight<br>{::nomarkdown}<ul><li>Defining Data</li><li>Why Visualization?</li><li>Visualization as Technology</li></ul>{:/}|
+|**Reading**|[Andrews, RJ, "Florence Nightengale is a Design Hero," *Info We Trust,* July 15, 2019](https://infowetrust.com/project/designhero)<br><br>[Haraway, Donna. “Situated Knowledges: The Science Question in Feminism and the Privilege of Partial Perspective.” Feminist Studies 14, no. 3 (1988): 575–99.](https://doi.org/10.2307/3178066)<br><br>[Norman, D. A. (1993). Chapter 3: The Power of Representation. *Things That Make Us Smart: Defending Human Attributes in the Age of the Machine*](https://nb2.csail.mit.edu/nb_viewer.html?id=5748b5945259e178cee1514de9abed5d).<br><br>[Rettberg, Jill Walker. “Ways of Knowing with Data Visualizations.” In Data Visualization in Society, edited by Martin Engebretsen and Helen Kennedy, 35–48. Amsterdam University Press, 2020](https://doi.org/10.2307/j.ctvzgb8c7.8).<br><br>Thorp, Jer. "I Data You, You Data Me (We All Data Together)" *Living in Data*, (New York: MCD Farrar Straus and Giroux, 2021), 37-52.|
 
 ### Wednesday, August 30
 
