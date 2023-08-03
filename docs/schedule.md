@@ -43,6 +43,7 @@ C2 Mac Lab
 ### Wednesday, August 30
 
 |**Lecture**|Form & Function, the Shape of Data<br>{::nomarkdown}<ul><li>Types of Visualizations</li><li>Functions Constrain Forms</li><li>Bertin's Visual Variables</ul>{:/}|
+|**Lab**|[Data Types, Graphical Marks, and Visual Encoding Channels](https://observablehq.com/@uwdata/data-types-graphical-marks-and-visual-encoding-channels)|
 |**Reading**|[Zachry, M., and C. Thralls. Cross-disciplinary exchanges: An interview with Edward R. Tufte. *Technical Communication Quarterly* 13.4 (Fall 2004): 447–462.](https://www.edwardtufte.com/tufte/s15427625tcq1304_5.pdf)|
 
 ### Monday, September 4
@@ -125,7 +126,7 @@ C2 Mac Lab
 |**Lecture**|Mapping Data<br><br>Data Narrative Pullout: Coming Home to Indigenous Place Names in Canada{::nomarkdown}<ul><li>Margaret Pearce</li></ul>{:/}|
 |**Lab**|Mapping Data with MapBox|
 |**Assignment 3**|Map a Data Story|
-|**Reading**|[Gutiérrez, Miren. “How Interactive Maps Mobilize People in Geoactivism.” In Data Visualization in Society, edited by Martin Engebretsen and Helen Kennedy, 441–56. Amsterdam University Press, 2020](https://doi.org/10.2307/j.ctvzgb8c7.32).<br><br>Williams, Sarah. "Big Data for Cities is Not New" in *Data Action: Using Data for Public Good* (Cambridge, MA: MIT Press, 2022), 1-48.|
+|**Reading**|[Gutiérrez, Miren. “How Interactive Maps Mobilize People in Geoactivism.” In Data Visualization in Society, edited by Martin Engebretsen and Helen Kennedy, 441–56. Amsterdam University Press, 2020](https://doi.org/10.2307/j.ctvzgb8c7.32).<br><br>[O’Connor, January, Mark Parman, Nicole Bowman, and Stephanie Evergreen. 2023. “Decolonizing Data Visualization: A History and Future of Indigenous Data Visualization”. Journal of MultiDisciplinary Evaluation 19 (44). Kalamazoo, MI:62–79.](https://doi.org/10.56645/jmde.v19i44.783)<br><br>Williams, Sarah. "Big Data for Cities is Not New" in *Data Action: Using Data for Public Good* (Cambridge, MA: MIT Press, 2022), 1-48.|
 
 ### Wednesday, October 11
 
