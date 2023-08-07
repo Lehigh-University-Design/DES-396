@@ -132,11 +132,9 @@ C2 Mac Lab
 
 |**Lab**|Work on assignment 3|
 
-### Monday, October 16
+### Monday, October 16 
 
-|**Lecture**|Interactivity{::nomarkdown}<ul><li>Visibility</li><li>Feedback</li><li>Constraints</li><li>Consistency</li><li>Structure</li><li>Instruction / Intuition</li><li>Conversation</li><li>Manipulation</li><li>Exploration</li><li>Planning</li></ul>{:/}|
-|**Lab**|Work on assignment 3|
-|**Reading**|Shi, Yang, Gao, Tian, Jiao, Xiaohan, & Cao, Nan. "Breaking the Fourth Wall of Data Stories through Interaction," *EEE Transactions on Visualization and Computer Graphics*, VOL. 29, NO. 1, (January 2023).|
+|**Pacing Break**|No class|
 
 ### Wednesday, October 18
 
@@ -146,14 +144,20 @@ C2 Mac Lab
 
 ### Monday, October 23
 
-|**Lecture**|Collaboration|
-|**Final Project Intro**|{::nomarkdown}<ul><li>Introduction</li><li>Parameters</li><li>Discussion</li></ul>{:/}|
+|**Lecture**|Interactivity{::nomarkdown}<ul><li>Visibility</li><li>Feedback</li><li>Constraints</li><li>Consistency</li><li>Structure</li><li>Instruction / Intuition</li><li>Conversation</li><li>Manipulation</li><li>Exploration</li><li>Planning</li></ul>{:/}|
+|**Lab**|Work on assignment 3|
+|**Reading**|Shi, Yang, Gao, Tian, Jiao, Xiaohan, & Cao, Nan. "Breaking the Fourth Wall of Data Stories through Interaction," *EEE Transactions on Visualization and Computer Graphics*, VOL. 29, NO. 1, (January 2023).|
 
 ### Wednesday, October 25
 
-|**Lab**|Scrollytelling{::nomarkdown}<ul><li>The scroll bar is your friend</li><li>Svelte</li></li></ul>{:/}|
+|**Lecture**|Collaboration|
+|**Final Project Intro**|{::nomarkdown}<ul><li>Introduction</li><li>Parameters</li><li>Discussion</li></ul>{:/}|
 
 ### Monday, October 30
+
+|**Lab**|Scrollytelling{::nomarkdown}<ul><li>The scroll bar is your friend</li><li>Svelte</li></li></ul>{:/}|
+
+### Wednesday, November 1
 
 |**Lecture**|Aesthetics and Representtion{::nomarkdown}<ul><li>Data Visualization as Art</li><li>Parameters of Representation</li><li>Discussion</li></ul>{:/}|
 |**Lab**|Work on final project|
