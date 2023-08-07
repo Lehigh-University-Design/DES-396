@@ -10,4 +10,4 @@ title: Office Hours
 
 Tuesdays and Thursdays: 9:15 - 12:15pm  
 or by appointment  
-Office: BC 237
+Office: Mountaintop Building C 237
