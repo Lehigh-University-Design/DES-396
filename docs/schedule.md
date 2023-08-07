@@ -93,7 +93,7 @@ C2 Mac Lab
 |**Lecture**|Just Because it's *data* doesn't mean it's not messy!{::nomarkdown}<ul><li>Cleaning Data</li><li>Making, Meaning, Comparing</li><li>Normalizing Data</li></ul>{:/}|
 |**Lab**|{::nomarkdown}<ul><li>Introduction to data prep with Tableau.</li><li>Work on assignment 2</li></ul>{:/}|
 
-### Wednesday, September 25
+### Monday, September 25
 
 |**Lecture**|Data Ethics|
 |**Reading**|D'Ignazio, Catherine, Klein, Lauren F. "The Power Chapter, Principle: Examine Power" in *Data Feminism* (Cambridge, MA: MIT Press, 2020), 21-47.<br><br>D'Ignazio, Catherine, Klein, Lauren F. "Collect, Analyze, Imagine, Teach, Principle: Challenge Power" in *Data Feminism* (Cambridge, MA: MIT Press, 2020), 49-72.<br><br><a href="https://digitalhumanities.org/dhq/vol/5/1/000091/000091.html">Drucker, Johanna. "Humanities Approaches to Graphical Display," *Digital Humanities Quarterly*, 2011.</a> Accessed May 8, 2023.<br><br><a href="https://www.urban.org/sites/default/files/publication/104296/do-no-harm-guide.pdf">Schwabish J. & Feng A. "Do No Harm Guide: Applying Equity Awareness in Data Visualization"</a>. (Urban Institute, 2021). 5-8<br><br>Thorp, Jer. "Data's Dark Matter" in *Living in Data* (New York: MCD Farrar Straus and Giroux, 2021), 55-71.|
