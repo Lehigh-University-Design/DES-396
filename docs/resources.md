@@ -133,7 +133,10 @@ nav_order: 3
 
 ## Design
 
-### Graphics Production
+### Graphics Production and Visual Prototyping
+
+Lehigh University provides all students of this course with a license to Adobe Creative Cloud. Please refer to the [Confluence Guide](https://confluence.cc.lehigh.edu/display/LKB/Creative+Cloud+Installation+Instructions) for help installing Adobe CC.
+
 - [Photoshop](https://www.adobe.com/products/photoshop.html)
 - [Illustrator](https://www.adobe.com/products/illustrator.html)
 - [Sketch](https://www.sketch.com/)
