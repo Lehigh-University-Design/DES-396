@@ -74,6 +74,7 @@ nav_order: 3
 - [Leaflet](https://leafletjs.com/), an open-source JavaScript library for mobile-friendly interactive maps.
 - [MabBox](https://www.mapbox.com/), dynamic, performant, and customizable maps with JavaScript library and API.
 - [Observable](https://observablehq.com/), an interactive, browser based notebook editing environment with community functionality
+- [Observable Plot](https://observablehq.com/plot/), The JavaScript library for exploratory data visualization  
 - [A Taste of Observable](https://observablehq.com/@observablehq/a-taste-of-observable?collection=@observablehq/getting-started), introductory notebook.
 - [p5js](https://p5js.org/), a JavaScript library for creative coding, with a focus on making coding accessible.
 - [Tableau](https://www.tableau.com/academic/students), a visual analytics platform.

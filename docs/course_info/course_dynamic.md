@@ -17,6 +17,10 @@ Arriving to class more then 15 minutes late is considered an absence. Leaving cl
 
 MISSING 3 CLASSES WITHOUT PRIOR APPROVAL WILL RESULT IN THE DEDUCTION OF ONE LETTER GRADE FROM THE FINAL EARNED GRADE. MISSING 4 OR MORE CLASSES WILL RESULT IN THE STUDENT FAILING THE CLASS.
 
+## Responsibilities
+
+Class Participation. Your full participation is expected. This includes paying attention and participating in class discussions and critiques, taking course work seriously, and working on course work for this class during the whole class period.
+
 ## Academic Honesty
 
 The Lehigh community considers the promotion of academic integrity a fundamental responsibility. Please be sure to familiarize yourself with Lehigh [academic integrity resources](https://citl.lehigh.edu/academic-integrity-resources).

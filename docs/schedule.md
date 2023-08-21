@@ -49,8 +49,8 @@ C2 Mac Lab
 ### Monday, September 4
 
 |**Lecture**|Finding and Questioning Data{::nomarkdown}<ul><li>Private</li><li>Public</li><li>Open</li><li>DIY</li></ul>{:/}|
-|**Lab**|Exploring Data with Observable Plot and Vega Lite<br>{::nomarkdown}<ul><li>Introduction to Observable</li><li>Exploring Data with Vega Lite</li></ul>{:/}|
-|**Assignment 1**|Choose a dataset to import into an Observable notebook. Using Plot or Vega Lite, create three graphs that ask three separate questions about the data.|
+|**Lab**|Exploring Data with Observable Plot and Vega Lite<br>{::nomarkdown}<ul><li>Introduction to Observable</li><li>Exploring Data with Vega Lite</li><li>Choose a dataset to import into an Observable notebook. Using Observable Plot or Vega Lite, create three graphs that ask three separate questions about the data.</li></ul>{:/}|
+|**Assignment 1**|Research, sketch and develop data graphics to accompany a news article of your choice|
 
 ### Wednesday, September 6
 
@@ -72,25 +72,23 @@ C2 Mac Lab
 
 |**Lecture**|Data Narrative Pullout: Isotype{::nomarkdown}<ul><li>Otto Neurath</li><li>Marie Neurath</li><li>Gerd Arntz</li></ul>{:/}|
 |**Assignment 1**|{::nomarkdown}<p class="label label-green">assignment 1 due</p>{:/} Assignment 1 is due today.|
-|**Reading**|[Lupton, Ellen. "Reading Isotype," *Design Issues* Vol. 3, No. 2 (Autumn, 1986): 47-58.](https://www.jstor.org/stable/1511484)<br><br>Neurath, Marie, and  Robin Kinross. *The Transformer: Principles of Making Isotype Charts* (London: Hyphen Press, 2009), TKTKTKTKTKTK.<br><br>Neurath, Otto, "The Renaissance of Hieroglyphics" in *From Hieroglyphics to Isotype: a Visual Autobiography* (London: Hyphen Press, 2010), 99-128.|
+|**Critique**|Assignment 1 presentations in class.|
+|**Reading**|[Lupton, Ellen. "Reading Isotype," *Design Issues* Vol. 3, No. 2 (Autumn, 1986): 47-58.](https://www.jstor.org/stable/1511484)<br><br>Neurath, Marie, and Robin Kinross, "The Work of the Transformer" in *The Transformer: Principles of Making Isotype Charts* (London: Hyphen Press, 2009), 77-96.<br><br>Neurath, Otto, "The Renaissance of Hieroglyphics" in *From Hieroglyphics to Isotype: a Visual Autobiography* (London: Hyphen Press, 2010), 99-128.|
 
 ### Wednesday, September 13
 
-|**Library Visit**|Special Collections|
-|**Reading**|Dick, Murray. "Confronting the 'Chaos of Being': The Politics of Visual Knowledge" in *The Infographic: A History of Data Graphics in News and Communications* (Cambridge, MA: MIT Press, 2020), 31-61.<br><br>Hall, Peter A., and Patricio Dávila. "Disruptive Histories," in Critical Visualization: Rethinking the Representation of Data (New York: Bloomsbury), 44-75<br><br>[Wainer, Howard. "Why Playfair?," and "Who Was Playfair?", in *Graphic discovery : a trout in the milk and other visual adventures* (Princeton: Princeton University Press, 2007), 10-27](https://www.jstor.org/stable/j.ctt4cgc63)
-
-|
+|**Library Visit**|Special Collections<br><br>Class meets at the Special Collections reading room in the Linderman Library|
+|**Reading**|Dick, Murray. "Confronting the 'Chaos of Being': The Politics of Visual Knowledge" in *The Infographic: A History of Data Graphics in News and Communications* (Cambridge, MA: MIT Press, 2020), 31-61.<br><br>Hall, Peter A., and Patricio Dávila. "Disruptive Histories," in Critical Visualization: Rethinking the Representation of Data (New York: Bloomsbury), 44-75<br><br>[Wainer, Howard. "Why Playfair?," and "Who Was Playfair?", in *Graphic discovery : a trout in the milk and other visual adventures* (Princeton: Princeton University Press, 2007), 10-27](https://www.jstor.org/stable/j.ctt4cgc63)|
 
 ### Monday, September 18
 
 |**Lecture**|Visualization Design Process{::nomarkdown}<ul><li>Defining the problem</li><li>Imagining outcomes</li><li>Technology</li><li>Form & Aesthetics</li><li>Narrative Flow</li><li>Balance</li></ul>{:/}|
-|**Assignment 2**|Develop data graphics to accompany a news article of your choice.|
+|**Assignment 2**|Data Visualization Revisited|
 |**Reading**|[Weber, Wibke. “Exploring Narrativity in Data Visualization in Journalism.” In Data Visualization in Society, edited by Martin Engebretsen and Helen Kennedy, 295–312. Amsterdam University Press, 2020](https://doi.org/10.2307/j.ctvzgb8c7.24).|
-
 
 ### Wednesday, September 20
 
-|**Lecture**|Just Because it's *data* doesn't mean it's not messy!{::nomarkdown}<ul><li>Cleaning Data</li><li>Making, Meaning, Comparing</li><li>Normalizing Data</li></ul>{:/}|
+|**Lecture**|Just Because It's *Data* Doesn't Mean It's Not Messy!{::nomarkdown}<ul><li>Cleaning Data</li><li>Making, Meaning, Comparing</li><li>Normalizing Data</li></ul>{:/}|
 |**Lab**|{::nomarkdown}<ul><li>Introduction to data prep with Tableau.</li><li>Work on assignment 2</li></ul>{:/}|
 
 ### Monday, September 25
@@ -119,7 +117,7 @@ C2 Mac Lab
 ### Wednesday, October 4
 
 |**Assignment 2**|{::nomarkdown}<p class="label label-green">assignment 2 due</p>{:/} Assignment 2 is due today.|
-|**Presentations**|Assignment 2 presentations in class.|
+|**Critique**|Assignment 2 presentations in class.|
 
 ### Monday, October 9 (Indigenous Peoples Day)
 
@@ -139,8 +137,7 @@ C2 Mac Lab
 ### Wednesday, October 18
 
 |**Guest Lecture**|[Zach Levitt](https://zachlevitt.com/), Data Designer at the New York Times|
-|**Assignment 3**|{::nomarkdown}<p class="label label-green">assignment 3 due</p>{:/} Assignment 3 is due today.|
-|**Presentations**|Assignment 3 presentations in class. Guest critic: Zach Levitt|
+|**Process Critique**|Assignment 3 concept presentations in class. Guest critic: Zach Levitt|
 
 ### Monday, October 23
 
@@ -151,10 +148,12 @@ C2 Mac Lab
 ### Wednesday, October 25
 
 |**Lecture**|Collaboration|
-|**Final Project Intro**|{::nomarkdown}<ul><li>Introduction</li><li>Parameters</li><li>Discussion</li></ul>{:/}|
+|**Assignment 3**|{::nomarkdown}<p class="label label-green">assignment 3 due</p>{:/} Assignment 3 is due today.|
+|**Critique**|Assignment 3 presentations in class.|
 
 ### Monday, October 30
 
+|**Final Project Intro**|{::nomarkdown}<ul><li>Introduction</li><li>Parameters</li><li>Discussion</li></ul>{:/}|
 |**Lab**|Scrollytelling{::nomarkdown}<ul><li>The scroll bar is your friend</li><li>Svelte</li></li></ul>{:/}|
 
 ### Wednesday, November 1
@@ -209,8 +208,8 @@ C2 Mac Lab
 
 ### Monday, December 4
 
-|**Presentations**|Final project presentations in class.|
+|**Critique**|Final project presentations in class.|
 
 ### Wednesday, December 6
 
-|**Presentations**|Final project presentations in class.|
+|**Critique**|Final project presentations in class.|
