@@ -24,3 +24,5 @@ Class Participation. Your full participation is expected. This includes paying a
 ## Academic Honesty
 
 The Lehigh community considers the promotion of academic integrity a fundamental responsibility. Please be sure to familiarize yourself with Lehigh [academic integrity resources](https://citl.lehigh.edu/academic-integrity-resources).
+
+Additionally, please refer to [*Upholding Academic Integrity and Community Standards at Lehigh*](https://www.lehigh.edu/lts/official/Academic_Integrity_Vignettes.pdf).
