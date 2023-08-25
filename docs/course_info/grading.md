@@ -33,11 +33,11 @@ For more on grading at Lehigh, please consult the [definitions of grades](https:
 
 ### Grading Emphasis
 
-|Technical|25%|
+|Communicating Ideas / Participation|20%|
 |Conceptual / Idea / Sketches / Process|20%|
 |Content / Narrative|20%|
+|Technical|20%|
 |Visual Language / Aesthetics|20%|
-|Communicating Ideas / Participation|15%|
 
 ### Assignment Grading Rubric
 
