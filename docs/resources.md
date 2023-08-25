@@ -157,6 +157,9 @@ Lehigh University provides all students of this course with a license to Adobe C
 
 ## Additional Resources
 
+### Links
+- [The Data Visualization Catalogue](https://datavizcatalogue.com/)
+
 ### Blogs
 - [Storytelling With Data](http://www.storytellingwithdata.com/blog)
 - [Information is Beautiful](https://informationisbeautiful.net/)

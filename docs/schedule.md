@@ -25,7 +25,8 @@ nav_order: 2
 
 Mondays, Wednesdays  
 1:35-4:15pm  
-C2 Mac Lab
+Mountaintop Campus  
+High Bay C2 Mac Lab
 
 ***
 
@@ -36,13 +37,13 @@ C2 Mac Lab
 	<span>—Florence Nightingale</span>
 </blockquote>
 
-|**Introduction**|{::nomarkdown}<ul><li>Syllabus</li><li>Expectations</li><li>Onboarding</li></ul>{:/}|
+|**Introduction**|{::nomarkdown}<ul><li>Syllabus</li><li>Expectations (workshop)</li><li>Onboarding</li></ul>{:/}|
 |**Lecture**|Data Narrative Pullout: The Nightingale Rose Diagram<br><br>I See: From Information to Insight<br>{::nomarkdown}<ul><li>Defining Data</li><li>Why Visualization?</li><li>Visualization as Technology</li></ul>{:/}|
 |**Reading**|[Andrews, RJ, "Florence Nightingale is a Design Hero," *Info We Trust,* July 15, 2019](https://infowetrust.com/project/designhero)<br><br>[Haraway, Donna. “Situated Knowledges: The Science Question in Feminism and the Privilege of Partial Perspective.” Feminist Studies 14, no. 3 (1988): 575–99.](https://doi.org/10.2307/3178066)<br><br>[Norman, D. A. (1993). Chapter 3: The Power of Representation. *Things That Make Us Smart: Defending Human Attributes in the Age of the Machine*](https://nb2.csail.mit.edu/nb_viewer.html?id=5748b5945259e178cee1514de9abed5d).<br><br>[Rettberg, Jill Walker. “Ways of Knowing with Data Visualizations.” In Data Visualization in Society, edited by Martin Engebretsen and Helen Kennedy, 35–48. Amsterdam University Press, 2020](https://doi.org/10.2307/j.ctvzgb8c7.8).<br><br>Thorp, Jer. "I Data You, You Data Me (We All Data Together)" *Living in Data*, (New York: MCD Farrar Straus and Giroux, 2021), 37-52.|
 
 ### Wednesday, August 30
 
-|**Lecture**|Form & Function, the Shape of Data<br>{::nomarkdown}<ul><li>Types of Visualizations</li><li>Functions Constrain Forms</li><li>Bertin's Visual Variables</ul>{:/}|
+|**Lecture**|Form & Function, the Shape of Data<br>{::nomarkdown}<ul><li>Categories of Visualizations</li><li>Functions Constrain Forms</li><li>Bertin's Visual Variables</ul>{:/}|
 |**Lab**|[Data Types, Graphical Marks, and Visual Encoding Channels](https://observablehq.com/@uwdata/data-types-graphical-marks-and-visual-encoding-channels)|
 |**Reading**|[Zachry, M., and C. Thralls. Cross-disciplinary exchanges: An interview with Edward R. Tufte. *Technical Communication Quarterly* 13.4 (Fall 2004): 447–462.](https://www.edwardtufte.com/tufte/s15427625tcq1304_5.pdf)|
 
@@ -90,7 +91,7 @@ C2 Mac Lab
 ### Wednesday, September 20
 
 |**Lecture**|Just Because It's *Data* Doesn't Mean It's Not Messy!{::nomarkdown}<ul><li>Cleaning Data</li><li>Making, Meaning, Comparing</li><li>Normalizing Data</li></ul>{:/}|
-|**Lab**|{::nomarkdown}<ul><li>Introduction to data prep with Tableau.</li><li>Work on assignment 2</li></ul>{:/}|
+|**Lab**|Work on assignment 2|
 
 ### Monday, September 25
 
@@ -155,7 +156,7 @@ C2 Mac Lab
 ### Monday, October 30
 
 |**Final Project Intro**|{::nomarkdown}<ul><li>Introduction</li><li>Parameters</li><li>Discussion</li></ul>{:/}|
-|**Lab**|Scrollytelling{::nomarkdown}<ul><li>The scroll bar is your friend</li><li>Svelte</li></li></ul>{:/}|
+|**Lab**|Scrollytelling{::nomarkdown}<ul><li>The scrollbar is your friend</li><li>Svelte</li></li></ul>{:/}|
 
 ### Wednesday, November 1
 

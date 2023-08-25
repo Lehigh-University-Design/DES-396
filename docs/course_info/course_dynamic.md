@@ -15,7 +15,7 @@ Important: This is a studio course which requires substantial time and effort in
 
 Arriving to class more then 15 minutes late is considered an absence. Leaving class early without the professor’s permission is considered an absence. Not having required materials after the first week of the classes can result in the student dismissal from the class.
 
-MISSING 3 CLASSES WITHOUT PRIOR APPROVAL WILL RESULT IN THE DEDUCTION OF ONE LETTER GRADE FROM THE FINAL EARNED GRADE. MISSING 4 OR MORE CLASSES WILL RESULT IN THE STUDENT FAILING THE CLASS.
+MISSING 3 CLASSES WITHOUT PRIOR APPROVAL WILL RESULT IN THE DEDUCTION OF ONE LETTER GRADE FROM THE FINAL EARNED GRADE. MISSING 4 OR MORE CLASSES MAY RESULT IN THE STUDENT FAILING THE CLASS.
 
 ## Responsibilities
 
