@@ -79,7 +79,7 @@ High Bay C2 Mac Lab
 ### Wednesday, September 13
 
 |**Library Visit**|Special Collections<br><br>Class meets at the Special Collections reading room in the Linderman Library|
-|**Assignment 2**|Data Visualization Revisited|
+|**Assignment 2**|Data Visualization Remix|
 |**Reading**|Dick, Murray. "Confronting the 'Chaos of Being': The Politics of Visual Knowledge" in *The Infographic: A History of Data Graphics in News and Communications* (Cambridge, MA: MIT Press, 2020), 31-61.<br><br>Hall, Peter A., and Patricio Dávila. "Disruptive Histories," in Critical Visualization: Rethinking the Representation of Data (New York: Bloomsbury), 44-75<br><br>[Wainer, Howard. "Why Playfair?," and "Who Was Playfair?", in *Graphic discovery : a trout in the milk and other visual adventures* (Princeton: Princeton University Press, 2007), 10-27](https://www.jstor.org/stable/j.ctt4cgc63)|
 
 ### Monday, September 18
