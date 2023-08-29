@@ -113,7 +113,7 @@ High Bay C2 Mac Lab
 
 |**Lecture**|Cognition{::nomarkdown}<ul><li>the eye and the brain</li><li>gestalt</li><li>choosing forms based on how vision works</li><li>perceptual tasks scale (Cleveland and McGill)</li><li>levels of abstraction</li></ul>{:/}|
 |**Lab**|Work on assignment 2|
-|**Reading**|Arnheim, "Pictures, Symbols, and Signs" in *Visual Thinking* (Berkeley and Los Angeles: University of California Press, 1969), 135-152<br><br>[Cleveland, William S. and Robert McGill, "Graphical Perception: Theory, Experimentation, and Application to the Development of Graphical Methods," *Journal of the American Statistical Association* Vol. 79, No. 387 (Sep., 1984): pp. 531-554.](https://www.jstor.org/stable/2288400)<br><br>Deacon, Terence, *The Symboic Species: The Co-Evolution of Language and the Brain* (New York: W.W. Norton & Company, 1998)TKTKTK<br><br>Plinker, Steven, *The Language Instinct: How the Mind Creates Language*, (New York: Harper Perennial Modern Classics, 2007)TKTKTKTK,|
+|**Reading**|Arnheim, "Pictures, Symbols, and Signs" in *Visual Thinking* (Berkeley and Los Angeles: University of California Press, 1969), 135-152<br><br>[Cleveland, William S. and Robert McGill, "Graphical Perception: Theory, Experimentation, and Application to the Development of Graphical Methods," *Journal of the American Statistical Association* Vol. 79, No. 387 (Sep., 1984): pp. 531-554.](https://www.jstor.org/stable/2288400)|
 
 
 ### Wednesday, October 4
