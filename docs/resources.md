@@ -15,7 +15,7 @@ nav_order: 3
 ## Books
 
 - [Dougherty, J. and Ilya Ilyankou. *Hands-On Data Visualization: Interactive Storytelling from Spreadsheets to Code* (Sebastopol, CA: O'Reilly Publishing, 2023)](https://handsondataviz.org/)
-- [Kirk, Andy. *Data Visualisation: A Handbook for Data Driven Design* (Thousand Oaks, CA: SAGE Publications, 2019)(https://visualisingdata.com/book/)
+- [Kirk, Andy. *Data Visualisation: A Handbook for Data Driven Design* (Thousand Oaks, CA: SAGE Publications, 2019)](https://visualisingdata.com/book/)
 - [Scott Murray. *Interactive Data Visualization for the Web*, 2nd Edition. (Sebastopol, CA: O'Reilly Publishing, 2017)]("https://alignedleft.com/work/d3-book-2e)
 - Cairo, Alberto. *Functional Art, The: An introduction to information graphics and visualization* (Indianapolis, IN: New Riders, 2012)
 
