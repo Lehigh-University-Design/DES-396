@@ -83,13 +83,13 @@ High Bay C2 Mac Lab
 ### Monday, September 18
 
 |**Lecture**|Visualization Design Process{::nomarkdown}<ul><li>Defining the problem</li><li>Imagining outcomes</li><li>Technology</li><li>Form & Aesthetics</li><li>Narrative Flow</li><li>Balance</li></ul>{:/}|
-|**Lab**|Work on assignment 2|
+|**Lab**|Visualizing Design Process|
 |**Reading**|[Weber, Wibke. “Exploring Narrativity in Data Visualization in Journalism.” In Data Visualization in Society, edited by Martin Engebretsen and Helen Kennedy, 295–312. Amsterdam University Press, 2020](https://doi.org/10.2307/j.ctvzgb8c7.24).|
 
 ### Wednesday, September 20
 
 |**Library Visit**|Special Collections (take II)<br><br>Class meets at the Special Collections reading room in the Linderman Library|
-|**Assignment 2**|Data Visualization Remix|
+|**Assignment 2**|Project Introduction: Data Visualization Remix|
 
 ### Monday, September 25
 
