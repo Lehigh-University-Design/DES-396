@@ -66,20 +66,18 @@ High Bay C2 Mac Lab
 
 ### Monday, September 11
 
-<blockquote>
-	“Perhaps this kind of intentionally communicative visualization is just beginning, as scientific education did long ago. Who can say? But there is perhaps a chance that visual communication will play its part in the creation of a brotherhood of man, for it can help to bridge many gaps and reduce some of the sources of antagonism.”
-	<span>—Otto Neurath</span>
-</blockquote>
-
-|**Lecture**|Data Narrative Pullout: Isotype{::nomarkdown}<ul><li>Otto Neurath</li><li>Marie Neurath</li><li>Gerd Arntz</li></ul>{:/}|
 |**Assignment 1**|{::nomarkdown}<p class="label label-green">assignment 1 due</p>{:/} Assignment 1 is due today.|
 |**Critique**|Assignment 1 presentations in class.|
 |**Reading**|[Lupton, Ellen. "Reading Isotype," *Design Issues* Vol. 3, No. 2 (Autumn, 1986): 47-58.](https://www.jstor.org/stable/1511484)<br><br>Neurath, Marie, and Robin Kinross, "The Work of the Transformer" in *The Transformer: Principles of Making Isotype Charts* (London: Hyphen Press, 2009), 77-96.<br><br>Neurath, Otto, "The Renaissance of Hieroglyphics" in *From Hieroglyphics to Isotype: a Visual Autobiography* (London: Hyphen Press, 2010), 99-128.|
 
 ### Wednesday, September 13
 
-|**Library Visit**|Special Collections<br><br>Class meets at the Special Collections reading room in the Linderman Library|
-|**Assignment 2**|Data Visualization Remix|
+<blockquote>
+	“Perhaps this kind of intentionally communicative visualization is just beginning, as scientific education did long ago. Who can say? But there is perhaps a chance that visual communication will play its part in the creation of a brotherhood of man, for it can help to bridge many gaps and reduce some of the sources of antagonism.”
+	<span>—Otto Neurath</span>
+</blockquote>
+
+|**Lecture**|Data Narrative Pullout: Isotype{::nomarkdown}<ul><li>Otto Neurath</li><li>Marie Neurath</li><li>Gerd Arntz</li></ul>{:/}|
 |**Reading**|Dick, Murray. "Confronting the 'Chaos of Being': The Politics of Visual Knowledge" in *The Infographic: A History of Data Graphics in News and Communications* (Cambridge, MA: MIT Press, 2020), 31-61.<br><br>Hall, Peter A., and Patricio Dávila. "Disruptive Histories," in Critical Visualization: Rethinking the Representation of Data (New York: Bloomsbury), 44-75<br><br>[Wainer, Howard. "Why Playfair?," and "Who Was Playfair?", in *Graphic discovery : a trout in the milk and other visual adventures* (Princeton: Princeton University Press, 2007), 10-27](https://www.jstor.org/stable/j.ctt4cgc63)|
 
 ### Monday, September 18
@@ -90,13 +88,14 @@ High Bay C2 Mac Lab
 
 ### Wednesday, September 20
 
-|**Lecture**|Just Because It's *Data* Doesn't Mean It's Not Messy!{::nomarkdown}<ul><li>Cleaning Data</li><li>Making, Meaning, Comparing</li><li>Normalizing Data</li></ul>{:/}|
-|**Lab**|Work on assignment 2|
+|**Library Visit**|Special Collections (take II)<br><br>Class meets at the Special Collections reading room in the Linderman Library|
+|**Assignment 2**|Data Visualization Remix|
 
 ### Monday, September 25
 
-|**Lecture**|Data Ethics|
-|**Reading**|D'Ignazio, Catherine, Klein, Lauren F. "The Power Chapter, Principle: Examine Power" in *Data Feminism* (Cambridge, MA: MIT Press, 2020), 21-47.<br><br>D'Ignazio, Catherine, Klein, Lauren F. "Collect, Analyze, Imagine, Teach, Principle: Challenge Power" in *Data Feminism* (Cambridge, MA: MIT Press, 2020), 49-72.<br><br><a href="https://digitalhumanities.org/dhq/vol/5/1/000091/000091.html">Drucker, Johanna. "Humanities Approaches to Graphical Display," *Digital Humanities Quarterly*, 2011.</a> Accessed May 8, 2023.<br><br><a href="https://www.urban.org/sites/default/files/publication/104296/do-no-harm-guide.pdf">Schwabish J. & Feng A. "Do No Harm Guide: Applying Equity Awareness in Data Visualization"</a>. (Urban Institute, 2021). 5-8<br><br>Thorp, Jer. "Data's Dark Matter" in *Living in Data* (New York: MCD Farrar Straus and Giroux, 2021), 55-71.|
+|**Lecture**|Just Because It's *Data* Doesn't Mean It's Not Messy!{::nomarkdown}<ul><li>Cleaning Data</li><li>Making, Meaning, Comparing</li><li>Normalizing Data</li></ul>{:/}|
+|**Assignment 2**|Present Concept (problem statement, imagined outcome, sketch, data research)|
+|**Lab**|Cleaning Data|
 
 ### Wednesday, September 27
 
@@ -105,32 +104,35 @@ High Bay C2 Mac Lab
 	<span>—W.E.B. DuBois</span>
 </blockquote>
 
-|**Lecture**|Data Narrative Pullout: Social Graphics at the Paris Exposition{::nomarkdown}<ul><li>W.E.B. DuBois</li></ul>{:/}|
+|**Lecture**|Data Narrative Pullout: Social Graphics at the Paris Exposition{::nomarkdown}<ul><li>W.E.B. DuBois</li></ul>{:/}Data Ethics|
+|**Reading**|D'Ignazio, Catherine, Klein, Lauren F. "The Power Chapter, Principle: Examine Power" in *Data Feminism* (Cambridge, MA: MIT Press, 2020), 21-47.<br><br>D'Ignazio, Catherine, Klein, Lauren F. "Collect, Analyze, Imagine, Teach, Principle: Challenge Power" in *Data Feminism* (Cambridge, MA: MIT Press, 2020), 49-72.<br><br><a href="https://digitalhumanities.org/dhq/vol/5/1/000091/000091.html">Drucker, Johanna. "Humanities Approaches to Graphical Display," *Digital Humanities Quarterly*, 2011.</a> Accessed May 8, 2023.<br><br><a href="https://www.urban.org/sites/default/files/publication/104296/do-no-harm-guide.pdf">Schwabish J. & Feng A. "Do No Harm Guide: Applying Equity Awareness in Data Visualization"</a>. (Urban Institute, 2021). 5-8<br><br>Thorp, Jer. "Data's Dark Matter" in *Living in Data* (New York: MCD Farrar Straus and Giroux, 2021), 55-71.<br><br>Wilson, Mabel. "The Cartography of W. E. B. Du Bois’s Color Line" in *W. E. B. Du Bois's Data Portraits: Visualizing Black America* (New York: Princeton Architectural Press, 2018), 37-43.<br><br>DuBois, W.E.B. "The Georgia Negro: A Social Study." In *Diagrams of Power: Visualizing, Mapping, and Performing Resistance*, edited by Patricio Dávila, 133-143. Amsterdam: Onomatopee, 2019.|
 |**Lab**|Work on assignment 2|
-|**Reading**|Wilson, Mabel. "The Cartography of W. E. B. Du Bois’s Color Line" in *W. E. B. Du Bois's Data Portraits: Visualizing Black America* (New York: Princeton Architectural Press, 2018), 37-43.<br><br>DuBois, W.E.B. "The Georgia Negro: A Social Study." In *Diagrams of Power: Visualizing, Mapping, and Performing Resistance*, edited by Patricio Dávila, 133-143. Amsterdam: Onomatopee, 2019.|
 
 ### Monday, October 2
 
 |**Lecture**|Cognition{::nomarkdown}<ul><li>the eye and the brain</li><li>gestalt</li><li>choosing forms based on how vision works</li><li>perceptual tasks scale (Cleveland and McGill)</li><li>levels of abstraction</li></ul>{:/}|
+|**Assignment 2**|Style Guide & Digital Prototype due (.pdf)|
 |**Lab**|Work on assignment 2|
 |**Reading**|Arnheim, "Pictures, Symbols, and Signs" in *Visual Thinking* (Berkeley and Los Angeles: University of California Press, 1969), 135-152<br><br>[Cleveland, William S. and Robert McGill, "Graphical Perception: Theory, Experimentation, and Application to the Development of Graphical Methods," *Journal of the American Statistical Association* Vol. 79, No. 387 (Sep., 1984): pp. 531-554.](https://www.jstor.org/stable/2288400)|
 
 
 ### Wednesday, October 4
 
-|**Assignment 2**|{::nomarkdown}<p class="label label-green">assignment 2 due</p>{:/} Assignment 2 is due today.|
-|**Critique**|Assignment 2 presentations in class.|
+|**Assignment 2**|Data exporation due (Observable notebook)|
+|**Lab**|Work on assignment 2|
 
 ### Monday, October 9 (Indigenous Peoples Day)
 
 |**Lecture**|Mapping Data<br><br>Data Narrative Pullout: Coming Home to Indigenous Place Names in Canada{::nomarkdown}<ul><li>Margaret Pearce</li></ul>{:/}|
-|**Lab**|Mapping Data with MapBox|
-|**Assignment 3**|Map a Data Story|
+|**Lab**|Work on assignment 2|
 |**Reading**|[Gutiérrez, Miren. “How Interactive Maps Mobilize People in Geoactivism.” In Data Visualization in Society, edited by Martin Engebretsen and Helen Kennedy, 441–56. Amsterdam University Press, 2020](https://doi.org/10.2307/j.ctvzgb8c7.32).<br><br>[O’Connor, January, Mark Parman, Nicole Bowman, and Stephanie Evergreen. 2023. “Decolonizing Data Visualization: A History and Future of Indigenous Data Visualization”. Journal of MultiDisciplinary Evaluation 19 (44). Kalamazoo, MI:62–79.](https://doi.org/10.56645/jmde.v19i44.783)<br><br>Williams, Sarah. "Big Data for Cities is Not New" in *Data Action: Using Data for Public Good* (Cambridge, MA: MIT Press, 2022), 1-48.|
 
 ### Wednesday, October 11
 
-|**Lab**|Work on assignment 3|
+|**Assignment 2**|{::nomarkdown}<p class="label label-green">assignment 2 due</p>{:/} Assignment 2 is due today.|
+|**Lab**|Mapping Data with MapBox|
+|**Assignment 3**|Introduction: Map a Data Story|
+
 
 ### Monday, October 16 
 
@@ -139,7 +141,7 @@ High Bay C2 Mac Lab
 ### Wednesday, October 18
 
 |**Guest Lecture**|[Zach Levitt](https://zachlevitt.com/), Data Designer at the New York Times|
-|**Process Critique**|Assignment 3 concept presentations in class. Guest critic: Zach Levitt|
+|**Critique**|Assignment 2 presentations in class. Guest critic: Zach Levitt|
 
 ### Monday, October 23
 
@@ -150,11 +152,12 @@ High Bay C2 Mac Lab
 ### Wednesday, October 25
 
 |**Lecture**|Collaboration|
-|**Assignment 3**|{::nomarkdown}<p class="label label-green">assignment 3 due</p>{:/} Assignment 3 is due today.|
-|**Critique**|Assignment 3 presentations in class.|
+|**Lab**|Work on assignment 3|
 
 ### Monday, October 30
 
+|**Assignment 3**|{::nomarkdown}<p class="label label-green">assignment 3 due</p>{:/} Assignment 3 is due today.|
+|**Critique**|Assignment 3 presentations in class.|
 |**Final Project Intro**|{::nomarkdown}<ul><li>Introduction</li><li>Parameters</li><li>Discussion</li></ul>{:/}|
 |**Lab**|Scrollytelling{::nomarkdown}<ul><li>The scrollbar is your friend</li><li>Svelte</li></li></ul>{:/}|
 
