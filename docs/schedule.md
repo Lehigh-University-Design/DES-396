@@ -84,7 +84,7 @@ High Bay C2 Mac Lab
 
 |**Lecture**|Visualization Design Process{::nomarkdown}<ul><li>Defining the problem</li><li>Imagining outcomes</li><li>Technology</li><li>Form & Aesthetics</li><li>Narrative Flow</li><li>Balance</li></ul>{:/}|
 |**Lab**|Visualizing Design Process|
-|**Reading**|Cairo, Alberto. "Creating Information GRaphics" in *The Functional Art: An Introduction to Information Graphics and Visualition* (London: New Riders Press, 2013), 153-176.<br><br>[Weber, Wibke. “Exploring Narrativity in Data Visualization in Journalism.” In Data Visualization in Society, edited by Martin Engebretsen and Helen Kennedy, 295–312. Amsterdam University Press, 2020](https://doi.org/10.2307/j.ctvzgb8c7.24).|
+|**Reading**|Cairo, Alberto. "Creating Information Graphics" in *The Functional Art: An Introduction to Information Graphics and Visualition* (London: New Riders Press, 2013), 153-176.<br><br>[Weber, Wibke. “Exploring Narrativity in Data Visualization in Journalism.” In Data Visualization in Society, edited by Martin Engebretsen and Helen Kennedy, 295–312. Amsterdam University Press, 2020](https://doi.org/10.2307/j.ctvzgb8c7.24).|
 
 ### Wednesday, September 20
 
