@@ -84,7 +84,7 @@ High Bay C2 Mac Lab
 
 |**Lecture**|Visualization Design Process{::nomarkdown}<ul><li>Defining the problem</li><li>Imagining outcomes</li><li>Technology</li><li>Form & Aesthetics</li><li>Narrative Flow</li><li>Balance</li></ul>{:/}|
 |**Lab**|Visualizing Design Process|
-|**Reading**|[Weber, Wibke. “Exploring Narrativity in Data Visualization in Journalism.” In Data Visualization in Society, edited by Martin Engebretsen and Helen Kennedy, 295–312. Amsterdam University Press, 2020](https://doi.org/10.2307/j.ctvzgb8c7.24).|
+|**Reading**|Cairo, Alberto. "Creating Information GRaphics" in *The Functional Art: An Introduction to Information Graphics and Visualition* (London: New Riders Press, 2013), 153-176.<br><br>[Weber, Wibke. “Exploring Narrativity in Data Visualization in Journalism.” In Data Visualization in Society, edited by Martin Engebretsen and Helen Kennedy, 295–312. Amsterdam University Press, 2020](https://doi.org/10.2307/j.ctvzgb8c7.24).|
 
 ### Wednesday, September 20
 
@@ -94,8 +94,8 @@ High Bay C2 Mac Lab
 ### Monday, September 25
 
 |**Lecture**|Just Because It's *Data* Doesn't Mean It's Not Messy!{::nomarkdown}<ul><li>Cleaning Data</li><li>Making, Meaning, Comparing</li><li>Normalizing Data</li></ul>{:/}|
-|**Assignment 2**|Present Concept (problem statement, imagined outcome, sketch, data research)|
-|**Lab**|Cleaning Data|
+|**Assignment 2**|Discussion|
+|**Lab**|Discuss Design Process Workshop<br><br>Cleaning Data|
 
 ### Wednesday, September 27
 
@@ -106,7 +106,7 @@ High Bay C2 Mac Lab
 
 |**Lecture**|Data Narrative Pullout: Social Graphics at the Paris Exposition{::nomarkdown}<ul><li>W.E.B. DuBois</li></ul>{:/}Data Ethics|
 |**Reading**|D'Ignazio, Catherine, Klein, Lauren F. "The Power Chapter, Principle: Examine Power" in *Data Feminism* (Cambridge, MA: MIT Press, 2020), 21-47.<br><br>D'Ignazio, Catherine, Klein, Lauren F. "Collect, Analyze, Imagine, Teach, Principle: Challenge Power" in *Data Feminism* (Cambridge, MA: MIT Press, 2020), 49-72.<br><br><a href="https://digitalhumanities.org/dhq/vol/5/1/000091/000091.html">Drucker, Johanna. "Humanities Approaches to Graphical Display," *Digital Humanities Quarterly*, 2011.</a> Accessed May 8, 2023.<br><br><a href="https://www.urban.org/sites/default/files/publication/104296/do-no-harm-guide.pdf">Schwabish J. & Feng A. "Do No Harm Guide: Applying Equity Awareness in Data Visualization"</a>. (Urban Institute, 2021). 5-8<br><br>Thorp, Jer. "Data's Dark Matter" in *Living in Data* (New York: MCD Farrar Straus and Giroux, 2021), 55-71.<br><br>Wilson, Mabel. "The Cartography of W. E. B. Du Bois’s Color Line" in *W. E. B. Du Bois's Data Portraits: Visualizing Black America* (New York: Princeton Architectural Press, 2018), 37-43.<br><br>DuBois, W.E.B. "The Georgia Negro: A Social Study." In *Diagrams of Power: Visualizing, Mapping, and Performing Resistance*, edited by Patricio Dávila, 133-143. Amsterdam: Onomatopee, 2019.|
-|**Lab**|Work on assignment 2|
+|**Assignment 2**|Present and Discuss Concept (problem statement, imagined outcome, sketch, data research)|
 
 ### Monday, October 2
 
