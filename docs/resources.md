@@ -67,6 +67,12 @@ nav_order: 3
 
 - [Brown University Library: Open Data](https://libguides.brown.edu/opendata)
 
+## Cleaning Data
+
+- [Google Sheets](https://www.google.com/sheets/about/) Online spreadsheet editor
+- [OpenRefine](https://openrefine.org/) OpenRefine is a powerful free, open source tool for working with messy data.
+- [Tabula](https://tabula.technology/) Tabula is a tool for liberating data tables locked inside PDF files.
+
 ## Visualization Tools, Frameworks & Apps
 
 - [D3](https://d3js.org/) The JavaScript library for bespoke data visualization.
