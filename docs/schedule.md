@@ -99,6 +99,11 @@ High Bay C2 Mac Lab
 
 ### Wednesday, September 27
 
+|**Assignment 2**|Present and Discuss Concept (problem statement, imagined outcome, sketch, data research)|
+|**Lab**|Work on assignment 2|
+
+### Monday, October 2
+
 <blockquote>
 	“The problem of the twentieth century is the problem of the color-line.”
 	<span>—W.E.B. DuBois</span>
@@ -106,14 +111,8 @@ High Bay C2 Mac Lab
 
 |**Lecture**|Data Narrative Pullout: Social Graphics at the Paris Exposition{::nomarkdown}<ul><li>W.E.B. DuBois</li></ul>{:/}Data Ethics|
 |**Reading**|D'Ignazio, Catherine, Klein, Lauren F. "The Power Chapter, Principle: Examine Power" in *Data Feminism* (Cambridge, MA: MIT Press, 2020), 21-47.<br><br>D'Ignazio, Catherine, Klein, Lauren F. "Collect, Analyze, Imagine, Teach, Principle: Challenge Power" in *Data Feminism* (Cambridge, MA: MIT Press, 2020), 49-72.<br><br><a href="https://digitalhumanities.org/dhq/vol/5/1/000091/000091.html">Drucker, Johanna. "Humanities Approaches to Graphical Display," *Digital Humanities Quarterly*, 2011.</a> Accessed May 8, 2023.<br><br><a href="https://www.urban.org/sites/default/files/publication/104296/do-no-harm-guide.pdf">Schwabish J. & Feng A. "Do No Harm Guide: Applying Equity Awareness in Data Visualization"</a>. (Urban Institute, 2021).<br><br>Thorp, Jer. "Data's Dark Matter" in *Living in Data* (New York: MCD Farrar Straus and Giroux, 2021), 55-71.<br><br>Wilson, Mabel. "The Cartography of W. E. B. Du Bois’s Color Line" in *W. E. B. Du Bois's Data Portraits: Visualizing Black America* (New York: Princeton Architectural Press, 2018), 37-43.<br><br>DuBois, W.E.B. "The Georgia Negro: A Social Study." In *Diagrams of Power: Visualizing, Mapping, and Performing Resistance*, edited by Patricio Dávila, 133-143. Amsterdam: Onomatopee, 2019.|
-|**Assignment 2**|Present and Discuss Concept (problem statement, imagined outcome, sketch, data research)|
-
-### Monday, October 2
-
-|**Lecture**|Cognition{::nomarkdown}<ul><li>the eye and the brain</li><li>gestalt</li><li>choosing forms based on how vision works</li><li>perceptual tasks scale (Cleveland and McGill)</li><li>levels of abstraction</li></ul>{:/}|
 |**Assignment 2**|Style Guide & Digital Prototype due (.pdf)|
 |**Lab**|Work on assignment 2|
-|**Reading**|Arnheim, "Pictures, Symbols, and Signs" in *Visual Thinking* (Berkeley and Los Angeles: University of California Press, 1969), 135-152<br><br>[Cleveland, William S. and Robert McGill, "Graphical Perception: Theory, Experimentation, and Application to the Development of Graphical Methods," *Journal of the American Statistical Association* Vol. 79, No. 387 (Sep., 1984): pp. 531-554.](https://www.jstor.org/stable/2288400)|
 
 
 ### Wednesday, October 4

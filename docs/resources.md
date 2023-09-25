@@ -171,6 +171,7 @@ Lehigh University provides all students of this course with a license to Adobe C
 - [Information is Beautiful](https://informationisbeautiful.net/)
 - [Flowing Data](http://flowingdata.com/)
 - [Visualizing Data](http://www.visualisingdata.com/)
+- [Nightingale](https://nightingaledvs.com/)
 
 ### Podcasts
 - [Data Journalism Podcast](https://podcasters.spotify.com/pod/show/ddjpodcast)
