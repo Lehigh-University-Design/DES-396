@@ -145,7 +145,7 @@ High Bay C2 Mac Lab
 ### Monday, October 23
 
 |**Lecture**|Interactivity{::nomarkdown}<ul><li>Visibility</li><li>Feedback</li><li>Constraints</li><li>Consistency</li><li>Structure</li><li>Instruction / Intuition</li><li>Conversation</li><li>Manipulation</li><li>Exploration</li><li>Planning</li></ul>{:/}|
-|**Lab**|Work on assignment 3|
+|**Lab**|Scrollytelling{::nomarkdown}<ul><li>The scrollbar is your friend</li><li>Svelte</li></li></ul>{:/}|
 |**Reading**|Shi, Yang, Gao, Tian, Jiao, Xiaohan, & Cao, Nan. "Breaking the Fourth Wall of Data Stories through Interaction," *EEE Transactions on Visualization and Computer Graphics*, VOL. 29, NO. 1, (January 2023).|
 
 ### Wednesday, October 25
@@ -158,7 +158,6 @@ High Bay C2 Mac Lab
 |**Assignment 3**|{::nomarkdown}<p class="label label-green">assignment 3 due</p>{:/} Assignment 3 is due today.|
 |**Critique**|Assignment 3 presentations in class.|
 |**Final Project Intro**|{::nomarkdown}<ul><li>Introduction</li><li>Parameters</li><li>Discussion</li></ul>{:/}|
-|**Lab**|Scrollytelling{::nomarkdown}<ul><li>The scrollbar is your friend</li><li>Svelte</li></li></ul>{:/}|
 
 ### Wednesday, November 1
 
