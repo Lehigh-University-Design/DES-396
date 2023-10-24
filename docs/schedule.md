@@ -130,7 +130,6 @@ High Bay C2 Mac Lab
 
 |**Assignment 2**|{::nomarkdown}<p class="label label-green">assignment 2 due</p>{:/} Assignment 2 is due today.|
 |**Lab**|Mapping Data with MapBox|
-|**Assignment 3**|Introduction: Map a Data Story|
 
 
 ### Monday, October 16 
@@ -139,33 +138,61 @@ High Bay C2 Mac Lab
 
 ### Wednesday, October 18
 
-|**Guest Lecture**|[Zach Levitt](https://zachlevitt.com/), Data Designer at the New York Times|
-|**Critique**|Assignment 2 presentations in class. Guest critic: Zach Levitt|
+|**Critique**|Assignment 2 presentations in class.|
+|**Assignment 3**|Introduction: Map a Data Story|
 
 ### Monday, October 23
 
 |**Lecture**|Interactivity{::nomarkdown}<ul><li>Visibility</li><li>Feedback</li><li>Constraints</li><li>Consistency</li><li>Structure</li><li>Instruction / Intuition</li><li>Conversation</li><li>Manipulation</li><li>Exploration</li><li>Planning</li></ul>{:/}|
-|**Lab**|Scrollytelling{::nomarkdown}<ul><li>The scrollbar is your friend</li><li>Svelte</li></li></ul>{:/}|
+|**Lab**|Scrollytelling{::nomarkdown}<ul><li>The scrollbar is your friend</li></ul>Work on assignment 3{:/}|
 |**Reading**|Shi, Yang, Gao, Tian, Jiao, Xiaohan, & Cao, Nan. "Breaking the Fourth Wall of Data Stories through Interaction," *EEE Transactions on Visualization and Computer Graphics*, VOL. 29, NO. 1, (January 2023).|
 
 ### Wednesday, October 25
 
-|**Lecture**|Collaboration|
+|**Project 3 Workshop**|Topic discussion<br>Project schema|
 |**Lab**|Work on assignment 3|
 
 ### Monday, October 30
 
-|**Assignment 3**|{::nomarkdown}<p class="label label-green">assignment 3 due</p>{:/} Assignment 3 is due today.|
-|**Critique**|Assignment 3 presentations in class.|
-|**Final Project Intro**|{::nomarkdown}<ul><li>Introduction</li><li>Parameters</li><li>Discussion</li></ul>{:/}|
+|**Lab**|Work on assignment 3|
 
 ### Wednesday, November 1
+
+|**Lab**|Work on assignment 3|
+
+### Monday, November 6
+
+|**Assignment 3**|{::nomarkdown}<p class="label label-green">assignment 3 due</p>{:/} Assignment 3 is due today.|
+|**Informal Critique**|Assignment 3 presentations in class.|
+|**Final Project Intro**|{::nomarkdown}<ul><li>Introduction</li><li>Parameters</li><li>Discussion</li></ul>{:/}|
+
+### Wednesday, November 8
 
 |**Lecture**|Aesthetics and Representtion{::nomarkdown}<ul><li>Data Visualization as Art</li><li>Parameters of Representation</li><li>Discussion</li></ul>{:/}|
 |**Lab**|Work on final project|
 |**Reading**|[Friendly, Michael, and Howard Wainer. “Graphs as Poetry.” In A History of Data Visualization and Graphic Communication, 231–50. Harvard University Press, 2021](https://doi.org/10.2307/j.ctv31xf66n.14).<br><br>Hall, Peter A., and Patricio Dávila. "Beyond Aesthetics and Representation," in *Critical Visualization: Rethinking the Representation of Data* (New York: Bloomsbury), 182-194|
 
-### Monday, November 6
+### Monday, November 13
+
+|**Guest Critique**|Groups will present and discuss Project 3 with a Lehigh faculty guest.|
+|**Lab**|Work on final project|
+
+### Wednesday, November 15
+
+|**Guest Lecture**|[Zach Levitt](https://zachlevitt.com/), Data Designer at the New York Times|
+|**Lab**|Work on final project|
+
+### Monday, November 20
+
+|**Lecture**|Beyond Visualization{::nomarkdown}<ul><li>Speculative workflows</li><li>AI and Visualization</li><li>Discussion</li></ul>{:/}|
+|**Lab**|Work on final project|
+|**Reading**|[Ridler, Anna. “A Contemporary Tulipmania,” *Antennae Journal*, Spring 2021](https://static1.squarespace.com/static/5500326fe4b0564d4c2494d1/t/63d11ad7f4e51f407212014e/1674648281891/ANTENNAE+ISSUE+53.pdf).|
+
+### Wednesday, November 22 
+
+|**Thanksgiving Break**|No class|
+
+### Monday, November 27
 
 <blockquote>
 	“In a room with a window in the corner I found truth.”
@@ -173,34 +200,7 @@ High Bay C2 Mac Lab
 </blockquote>
 
 |**Lecture**|Data Narrative Pullout: Joy Division’s Unknown Pleasures|
-|**Final Project**|Groups pitch their projects|
-|**Lab**|Work on final project|
 |**Reading**|[Christiansen, Jen, "Pop Culture Pulsar: Origin Story of Joy Division’s Unknown Pleasures Album Cover," *Scientific American,* February, 18, 2015](https://blogs.scientificamerican.com/sa-visual/pop-culture-pulsar-origin-story-of-joy-division-s-unknown-pleasures-album-cover-video/)|
-
-### Wednesday, November 8
-
-|**Lecture**|Beyond Visualization{::nomarkdown}<ul><li>Speculative workflows</li><li>AI and Visualization</li><li>Discussion</li></ul>{:/}|
-|**Lab**|Work on final project|
-|**Reading**|[Ridler, Anna. “A Contemporary Tulipmania,” *Antennae Journal*, Spring 2021](https://static1.squarespace.com/static/5500326fe4b0564d4c2494d1/t/63d11ad7f4e51f407212014e/1674648281891/ANTENNAE+ISSUE+53.pdf).|
-
-### Monday, November 13
-
-|**Guest Critique**|Groups will present and discuss their in-progress final projects with a Lehigh faculty guest.|
-|**Lab**|Work on final project|
-
-### Wednesday, November 15
-
-|**Lab**|Work on final project|
-
-### Monday, November 20
-
-|**Lab**|Work on final project|
-
-### Wednesday, November 22 
-
-|**Thanksgiving Break**|No class|
-
-### Monday, November 27
 
 |**Lab**|Work on final project|
 
